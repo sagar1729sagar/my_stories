@@ -1,249 +1,272 @@
 # SAFETY - Master Shot List
 
-సీన్ నంబర్లు `02_shooting_script.md` తో సరిపోతాయి. ఫ్లాష్‌బ్యాక్ సీన్లు (25-32, 34-35) కూల్‌గా, డీశాచ్యురేటెడ్‌గా గ్రేడ్ చేయాలి. సీన్లు 27-29 సోడియం-వేపర్ ల్యాంప్‌ల లాగా ఆంబర్ రంగులో గ్రేడ్ చేయాలి.
+సీన్ నంబర్లు `02_shooting_script.md` తో సరిపోతాయి (స్పెక్ స్క్రిప్ట్‌లోని ప్రతి INT./EXT. స్లగ్‌లైన్‌కి వరుసగా 1-37). ఫ్లాష్‌బ్యాక్ సీన్లు (25-32, 34-35) కూల్‌గా, డీశాచ్యురేటెడ్‌గా గ్రేడ్ చేయాలి. సీన్లు 27-29 (ఫ్లాష్‌బ్యాక్ లోపల ఫ్లాష్‌బ్యాక్) సోడియం-వేపర్ ల్యాంప్‌ల లాగా ఆంబర్ రంగులో గ్రేడ్ చేయాలి.
 
-| Shot # | Scene # | Size | Angle | Movement | Subject/Action | Gear Notes |
-|---|---|---|---|---|---|---|
-| 1A | 1 | ECU | Eye-level | Static | తెల్లవారకముందు చీకటి. కార్తీక్ చెయ్యి మెల్లగా బీరువా హ్యాండిల్ తిప్పుతుంది; తలుపు కిర్రుమంటూ (CREAKS) తెరుచుకుంటుంది | Tripod, macro lens, low-key practical light |
-| 1B | 1 | MS | Eye-level | Static | కార్తీక్ చప్పుడు చేయకుండా తన వర్క్ బట్టలు బయటకు తీస్తాడు | Tripod |
-| 1C | 1 | MS | Low Angle (మంచం ఎత్తు) | Static | ఆధ్య మంచంలో కదులుతుంది, కంగారు లేకుండా; ఈ శబ్దం ఆమెకు అలవాటే | Tripod, low hi-hat |
-| 1D | 1 | CU | Eye-level (దిండు ఎత్తు) | Static | ఆధ్య కళ్ళు సగం తెరుచుకుంటాయి; షాలో ఫోకస్, వెనక కార్తీక్ మసకగా సిల్హౌట్‌లా | Tripod, fast prime, wide aperture |
-| 1E | 1 | MCU | Eye-level | Static, rack focus | ఆధ్య POV: గోడ గడియారం ఫోకస్‌లోకి వస్తుంది, 5:20 | Tripod, follow focus |
-| 1F | 1 | CU | Eye-level | Static | ఆధ్య కళ్ళు మూసుకుని మళ్ళీ నిద్రలోకి జారుకుంటుంది. తర్వాత, అదే ఫ్రేమ్: తలుపు క్లిక్ (CLICKS) మంటుంది, బద్ధకంగా కళ్ళు తెరుస్తుంది | Tripod, టైమ్ కట్ కోసం locked off |
-| 1G | 1 | INSERT | Eye-level | Static | గడియారం 5:45 చూపిస్తుంది. KARTHIK (O.S.): "బై, స్నేహ." | Tripod; 1E ఫ్రేమింగ్‌కి మ్యాచ్ చేయాలి |
-| 1H | 1 | CU | Eye-level | Static | ఆధ్య ఒక్కసారిగా లేచి ఫ్రేమ్‌లోకి కూర్చుంటుంది; ఫోకస్ ఆమె మీదకి స్నాప్ అవుతుంది | Tripod |
-| 1I | 1 | WS | Eye-level | Whip pan | ఆధ్య కంగారుగా మంచం దిగి, తలుపు దగ్గరికి గబగబా వెళ్తుంది | Gimbal |
-| 2A | 2 | MS | Eye-level | Track | ఆధ్య మూల తిరిగి హాల్లోకి వచ్చి సడన్‌గా ఆగిపోతుంది | Steadicam |
-| 2B | 2 | OTS | Eye-level (ఆధ్య ఎత్తు) | Static | ఆధ్య భుజం మీదుగా: తెరిచిన తలుపు బయట కార్తీక్, ఆమె వైపు వీపు పెట్టి, హెల్మెట్ పెట్టుకుంటున్నాడు; డీప్ ఫోకస్ | Tripod, low; డీప్ ఫోకస్ కోసం stop down. HERO SETUP, 8A మరియు 18D లో మళ్ళీ వాడాలి |
-| 2C | 2 | ECU | Eye-level | Static | హెల్మెట్ స్ట్రాప్ క్లిక్ (CLICKS) మని లాక్ అవుతుంది | Tripod, macro |
-| 2D | 2 | CU | Eye-level | Static | ఆధ్య కంగారు ముఖం మెల్లగా చిన్న నవ్వుగా మారుతుంది | Tripod |
-| 2E | 2 | WS | Eye-level | Static | గుమ్మం గుండా, కార్తీక్ బైక్ మీద వెళ్ళిపోతాడు; స్నేహ తలుపు వేసి వెనక్కి తిరుగుతుంది | Tripod; బైక్ మూవ్‌కి బయట క్లియరెన్స్ కావాలి |
-| 2F | 2 | MS 2-shot | Eye-level | Static | స్నేహ నవ్వుతున్న ఆధ్యని చూస్తుంది: "ఇప్పుడే డాడీ వెళ్ళిపోయారు..." | Tripod |
-| 2G | 2 | MS | Eye-level | Static | ఆధ్య తల ఊపి మెల్లగా బెడ్‌రూమ్‌లోకి వెళ్ళిపోతుంది; స్నేహ మీద హోల్డ్ | Tripod |
-| 3A | 3 | INSERT | Eye-level | Static | గోడ గడియారం 3:30 చూపిస్తుంది | Tripod |
-| 3B | 3 | MS | Eye-level | Static | స్నేహ సోఫాలో ఎదురుచూస్తోంది | Tripod |
-| 3C | 3 | WS | Eye-level | Static | ముందు తలుపు ఒక్కసారిగా తెరుచుకుంటుంది; యూనిఫామ్, బ్యాగ్, లంచ్ బాక్స్‌తో ఆధ్య గెంతుతూ లోపలికి వస్తుంది | Tripod |
-| 3D | 3 | MS | Eye-level | Pan | బ్యాగ్ అందుకోవడానికి స్నేహ లేస్తుంది; ఆధ్య ఆమెని దాటేసి నేరుగా వెళ్ళిపోతుంది | Tripod, fluid head |
-| 3E | 3 | CU | Floor level | Static | బ్యాగ్ దబ్ (THUMPS) మని కింద పడుతుంది, లంచ్ బాక్స్ ఖంగ్ (CLANKS) మంటుంది, విసిరేసిన షూస్ దొర్లుతూ ఫ్రేమ్‌లోకి వస్తాయి | Ground plate / baby legs |
-| 3F | 3 | MCU (పాదాలు) | Floor level | Track | సాక్సులు నేల మీద గెంతుతూ సోఫా దాకా వెళ్తాయి | Slider or low gimbal |
-| 3G | 3 | MS | Eye-level | Static | ఆధ్య దబ్బున కూర్చుని, స్నేహ ఫోన్ లాక్కుంటుంది. స్నేహ: "అబ్బా, ఆధ్యా..." | Tripod |
-| 3H | 3 | CU | Eye-level | Static | ఆధ్యకి ఒక్క మాట కూడా వినపడదు | Tripod |
-| 3I | 3 | INSERT | High Angle (భుజం మీదుగా) | Static | ఫోన్ స్క్రీన్: WhatsApp, "DAD" కి వీడియో కాల్ | Tripod; లైవ్ స్క్రీన్ షూట్ చేయాలి, బ్యాకప్‌గా స్క్రీన్ రీప్లేస్‌మెంట్ ప్లాన్ చేయాలి |
-| 3J | 3 | INSERT | Straight-on | Static | ఫోన్ స్క్రీన్: హెల్మెట్, గాగుల్స్‌తో కార్తీక్, వెనక స్టీల్ ప్లాంట్ యార్డ్; నవ్వుతాడు | ప్లాంట్‌లో ముందే షూట్ చేసిన వీడియో కాల్ ప్లేట్ (కార్తీక్ వైపు) |
-| 3K | 3 | CU | Eye-level | Static | ఆధ్య స్క్రీన్ వైపు గబుక్కున వెతుకుతున్నట్టు చూసి, ఆ తర్వాత ముఖం వెలిగిపోతుంది; కాల్ డైలాగ్ మొత్తం | Tripod; ఫోన్ వెలుగే key light |
-| 3L | 3 | INSERT | High Angle | Static | ఆమె బొటనవేలు కాల్ కట్ చేస్తుంది | Tripod, macro |
-| 3M | 3 | WS | Eye-level | Static, rack focus | ముందున్న ఆధ్య నుంచి గదికి అటువైపున్న స్నేహకి rack: "నీకు మీ అమ్మ కనపడనే కనపడదు." | Tripod, follow focus |
-| 3N | 3 | MS | Eye-level | Static | స్నేహ వంటగదిలోకి వెళ్తుంది; ఖాళీ గుమ్మం మీద హోల్డ్ | Tripod |
-| 4A | 4 | WS | Eye-level | Track | డింగ్-డాంగ్ (DING-DONG). ఆధ్య తలుపు దగ్గరికి పరిగెత్తి తెరుస్తుంది | Steadicam |
-| 4B | 4 | MS | Eye-level | Static | కార్తీక్ లోపలికి అడుగుపెడతాడు | Tripod |
-| 4C | 4 | CU (చేతులు) | Eye-level | Static | చిన్ని చేతులు అతని చేతుల్లోంచి హెల్మెట్ అందుకుంటాయి | Tripod. HERO SETUP, 11C లో ఖాళీగా మళ్ళీ వాడాలి |
-| 4D | 4 | MCU | Eye-level | Static | ఆధ్య హెల్మెట్‌ని హత్తుకుంటుంది, తన పని చేసినందుకు గర్వంగా | Tripod |
-| 4E | 4 | WS | Eye-level | Static | స్నేహ గ్లాసు నీళ్ళతో వంటగదిలోంచి బయటకు వస్తుంది | Tripod |
-| 5A | 5 | WS | Eye-level | Static | కుటుంబం అంతా కలిసి డిన్నర్, వెచ్చని ప్రాక్టికల్ లైట్ | Tripod, warm practicals |
-| 5B | 5 | MS | Eye-level | Static | కార్తీక్ ఆధ్యకి ముద్ద తినిపిస్తాడు | Tripod |
-| 5C | 5 | MS | Eye-level | Static | స్నేహ ఆధ్యకి ముద్ద తినిపిస్తుంది | Tripod |
-| 5D | 5 | CU | Eye-level | Static | నోటి నిండా బుగ్గలతో ఆధ్య నవ్వుతోంది; వెనక తల్లిదండ్రులు మసకగా | Tripod, shallow focus |
-| 6A | 6 | WS | Overhead | Slow push in (descending) | లైట్లు డిమ్. కార్తీక్ ఒక భుజం మీద ఆధ్య, ఇంకో పక్క స్నేహ; మాట్లాడుకుంటూ నిద్రలోకి జారుకుంటారు; ఫోకస్ మసకబారుతుంది | Top-down rig or jib. HERO SETUP, 16A లో మళ్ళీ వాడాలి |
-| 7A | 7 | INSERT | Eye-level | Static | గడియారం 5:45 చూపిస్తుంది. KARTHIK (O.S.): "బై, స్నేహ." | Tripod; 1G కి మ్యాచ్ |
-| 7B | 7 | CU | Eye-level | Static | సగం నిద్రలో ఉన్న ఆధ్య ఉలిక్కిపడి లేస్తుంది, కంగారుగా | Tripod |
-| 7C | 7 | WS | Eye-level | Static | క్షణంలో మంచం దిగేస్తుంది | Tripod |
-| 8A | 8 | OTS | Eye-level (ఆధ్య ఎత్తు) | Static | 2B రిపీట్: తలుపు దగ్గర కార్తీక్, ఆమె వైపు వీపు, హెల్మెట్ పెట్టుకుని; ఫోకస్ హెల్మెట్ మీద | Tripod; 2B lens, ఎత్తుకి మ్యాచ్ చేయాలి |
-| 8B | 8 | CU | Eye-level | Static | ఆధ్య ఊపిరి వదులుతుంది; ప్రశాంతత తిరిగి వస్తుంది, చిన్న నవ్వు | Tripod |
-| 8C | 8 | MS | Eye-level | Static | వెనక్కి తిరిగి మళ్ళీ మంచం మీదకి వెళ్ళిపోతుంది | Tripod |
-| 9A | 9 | INSERT | Eye-level | Static | గడియారం 3:30 చూపిస్తుంది | Tripod; 3A కి మ్యాచ్ |
-| 9B | 9 | WS | Eye-level | Static | 3C రిపీట్: ఆధ్య దూసుకుంటూ లోపలికి వస్తుంది | Tripod; 3C కి మ్యాచ్ |
-| 9C | 9 | CU | Floor level | Static | బ్యాగ్, లంచ్ బాక్స్, షూస్ నేల మీద పడతాయి | Ground plate |
-| 9D | 9 | MS | Eye-level | Static | ఆధ్య గెంతుతూ సోఫా మీదకి ఎక్కుతుంది. స్నేహ: "ఆధ్యా. ముందు ఫ్రెష్ అయ్యి రా." | Tripod |
-| 9E | 9 | CU | Eye-level | Static | పట్టించుకోదు; ఆధ్య ఫోన్ లాక్కుని డాడీకి వీడియో కాల్ చేస్తుంది | Tripod |
-| 9F | 9 | MS | Eye-level | Static | స్నేహ ముద్దుగా నవ్వుతూ చూస్తుంది, తల అడ్డంగా ఊపుతుంది | Tripod |
-| 9G | 9 | INSERT | High Angle | Static | ఫోన్ స్క్రీన్: కాల్ కనెక్ట్ అవుతుంది | Tripod; స్క్రీన్ రీప్లేస్‌మెంట్ బ్యాకప్ |
-| 9H | 9 | ECU | Eye-level | Slow push in | "హాయ్, డాడీ!" ఆధ్య ముఖం ఒక్కసారిగా షాక్‌లోకి పడిపోతుంది, రాయిలా బిగుసుకుపోతుంది; ఫోకస్ కళ్ళ మీద లాక్, బ్యాక్‌గ్రౌండ్ బ్లర్ అవ్వాలి | Dolly or slider, fast prime |
-| 9I | 9 | CU | Eye-level | Static (locked off) | ఆధ్య కదలదు; నిండా భయం. KARTHIK (ON PHONE): "హాయ్, బంగారం!..." | Tripod, locked off |
-| 9J | 9 | MS | Eye-level | Static, rack focus | ముందున్న ఆధ్య నుంచి స్నేహకి rack; ఆమె నవ్వు మాయమవుతుంది | Tripod, follow focus |
-| 9K | 9 | MS | Eye-level | Track | స్నేహ దగ్గరికి వచ్చి ఆధ్య చేతిలోంచి ఫోన్ తీసుకుంటుంది | Steadicam |
-| 9L | 9 | INSERT | Over-the-shoulder (స్నేహ POV) | Slow push in | ఫోన్ స్క్రీన్: హెల్మెట్ లేకుండా కార్తీక్; అతని వెనక ఒక భారీ మెషిన్ పెద్ద పెద్ద రాళ్ళు కిందకి పడేస్తోంది, గర్జన (ROAR), దబ్ (THUD) | Slider. రా మెటీరియల్ యార్డ్‌లో ముందే షూట్ చేసిన ప్లేట్ (stacker/reclaimer or excavator) |
-| 9M | 9 | MCU | Eye-level | Static | స్నేహ: "అది భయపడిపోయినట్టుంది..." | Tripod |
-| 9N | 9 | INSERT | Straight-on | Static | ఫోన్ స్క్రీన్: కార్తీక్ తల ఊపి కాల్ కట్ చేస్తాడు | Plate footage |
-| 9O | 9 | WS | Eye-level | Static | ఫోన్‌తో స్నేహ (ముందు); డీప్ ఫోకస్, ఆధ్య బెడ్‌రూమ్ వైపు నడిచి వెళ్ళిపోతుంది | Tripod, stopped down |
-| 10A | 10 | WS | Overhead | Static | ఆధ్య మంచం మీద పడుకుని సీలింగ్ వైపు చూస్తూ ఆలోచనల్లో మునిగిపోయింది | Top-down rig |
-| 10B | 10 | WS | Eye-level | Static | గుమ్మంలో స్నేహ: "రామ్మా, ఆధ్యా..." | Tripod |
-| 10C | 10 | CU | Overhead | Static | ఆధ్య. ఏ స్పందనా లేదు | Top-down rig |
-| 10D | 10 | MS | Eye-level | Static | స్నేహ ఆమె పక్కన కూర్చుని, ఆమె చేతి మీద చెయ్యి వేస్తుంది | Tripod |
-| 10E | 10 | INSERT | High Angle | Static | చెయ్యి వెనక్కి తీస్తుంది: వేడిగా ఉంది | Tripod |
-| 10F | 10 | CU | Eye-level | Static | చేతి వెనక భాగంతో ఆధ్య మెడ, తర్వాత నుదురు తాకి చూస్తుంది. స్నేహ (సరదాగా): "అయ్యో, బంగారం..." | Tripod |
-| 10G | 10 | INSERT | High Angle | Static | ఆధ్య చంకలో థర్మామీటర్ పెడుతుంది | Tripod |
-| 10H | 10 | WS | Eye-level | Pan | స్నేహ గబగబా బయటకు వెళ్ళి, టవల్, గిన్నెలో నీళ్ళతో తిరిగి వస్తుంది | Tripod, fluid head |
-| 10I | 10 | ECU | High Angle | Static | థర్మామీటర్ 102°F చూపిస్తుంది | Tripod, macro; డిస్‌ప్లే చదవగలిగే ప్రాక్టికల్ ప్రాప్ |
-| 10J | 10 | CU | Eye-level | Static | స్నేహ ఊపిరి ఒక్క క్షణం ఆగిపోతుంది; తనని తాను సంభాళించుకుంటుంది | Tripod |
-| 10K | 10 | MS | High Angle | Static | చెంచాతో ఆధ్య నోట్లో సిరప్ పోస్తుంది; తడి గుడ్డతో ఒళ్ళు తుడవడం మొదలుపెడుతుంది | Tripod |
-| 10L | 10 | CU | Overhead | Static | ఆధ్య కళ్ళు సీలింగ్ నుంచి కదలవు; ముందు స్నేహ చెయ్యి, టవల్ మసకగా. "ఎక్కడైనా నొప్పిగా ఉందా?" | Top-down rig, shallow focus |
-| 10M | 10 | CU | Overhead | Static | ఏ స్పందనా లేదు, కనురెప్ప కూడా కదలదు | Top-down rig |
-| 10N | 10 | CU | Eye-level | Static | స్నేహ: "చలిగా ఉందా?" భయం మెల్లగా ఆవరిస్తుంది; తుడుస్తూనే ఉంటుంది | Tripod |
-| 10O | 10 | WS | Eye-level | Static | టైమ్ కట్: కిటికీ వెలుగు మారిపోయింది. డింగ్-డాంగ్ (DING-DONG). "మీ డాడీ వచ్చినట్టున్నారు." స్నేహ వెళ్తుంది | Tripod; టైమ్ షిఫ్ట్ కోసం relight |
-| 10P | 10 | CU | Eye-level (దిండు ఎత్తు) | Static | మొదటిసారి, ఆధ్య తల తిప్పుతుంది | Tripod |
-| 10Q | 10 | WS | Eye-level (దిండు ఎత్తు) | Pan | ఆధ్య POV: అమ్మ తలుపు గుండా బయటకు వెళ్తుంది | Tripod, fluid head |
-| 10R | 10 | CU | Eye-level | Static, focus pull | ఆధ్య కళ్ళు గుమ్మం మీదే; ఫోకస్ ఆమెను దాటి ఖాళీ గుమ్మం మీదకి వెళ్ళి అక్కడే ఆగుతుంది | Tripod, follow focus |
-| 11A | 11 | MS | Eye-level | Static | స్నేహ తలుపు తీస్తుంది; కార్తీక్ హెల్మెట్ తీస్తూ లోపలికి వస్తాడు | Tripod |
-| 11B | 11 | CU | Eye-level | Static | కార్తీక్ కళ్ళు ఆ చిన్ని చేతుల కోసం గదంతా వెతుకుతాయి | Tripod |
-| 11C | 11 | CU (చేతులు) | Eye-level | Static | 4C రిపీట్: ఏ చిన్ని చేతులూ ఫ్రేమ్‌లోకి రావు; హెల్మెట్‌ని అతనే కింద పెడతాడు | Tripod; 4C కి సరిగ్గా మ్యాచ్ చేయాలి |
-| 11D | 11 | MS 2-shot | Eye-level | Static | "ఆధ్య ఎక్కడ?" / "దానికి జ్వరం వచ్చింది..." | Tripod |
-| 11E | 11 | WS | Eye-level | Handheld follow | కార్తీక్ నేరుగా బెడ్‌రూమ్ వైపు వెళ్తాడు | Handheld |
-| 12A | 12 | CU | Eye-level | Static | ఆధ్య కళ్ళు తలుపు మీదే | Tripod |
-| 12B | 12 | MS | Eye-level | Static, focus snap | ఆధ్య POV: గుమ్మంలో కార్తీక్ కనిపిస్తాడు | Tripod, follow focus |
-| 12C | 12 | WS | Eye-level | Static | మంచం మీంచి ఎగిరి అతని చేతుల్లోకి దూకుతుంది | Tripod |
-| 12D | 12 | CU | Eye-level | Static | కార్తీక్‌కి వేడి తగులుతుంది: "ఒళ్ళు కాలిపోతోంది కదరా, బంగారం..." | Tripod |
-| 12E | 12 | OTS | Eye-level | Static | కార్తీక్ మీదుగా: గుమ్మంలో స్నేహ తల ఊపుతుంది | Tripod |
-| 12F | 12 | MS | Eye-level | Static | కార్తీక్ ఆధ్యని ఎత్తుకుంటాడు | Tripod |
-| 13A | 13 | WS | Eye-level | Static | కుటుంబం కారు ఎక్కుతుంది | Tripod |
-| 13B | 13 | WS | High Angle | Static | కారు వెళ్ళిపోతుంది; టెయిల్‌లైట్లు దూరమయ్యే దాకా హోల్డ్ | Tripod on height, or jib |
-| 14A | 14 | WS | Eye-level | Static | డాక్టర్ గది: డాక్టర్ పక్కన స్టూల్ మీద ఆధ్య; టేబుల్‌కి అటువైపు తల్లిదండ్రులు | Tripod. HERO SETUP, 22A లో మళ్ళీ వాడాలి |
-| 14B | 14 | CU | Eye-level | Static | ఆధ్య ఛాతీ మీద స్టెతస్కోప్ | Tripod |
-| 14C | 14 | MS | Eye-level | Static | డాక్టర్ ఆమె కళ్ళు, నాలుక చెక్ చేస్తారు | Tripod |
-| 14D | 14 | MS | Eye-level | Static | కార్తీక్: "దానికి చాలా ఎక్కువ జ్వరం వచ్చింది..." | Tripod |
-| 14E | 14 | MS | Eye-level | Static | డాక్టర్ అతని వైపు తిరుగుతారు: "మీరు మెడిసిన్ ఇచ్చారు..." | Tripod |
-| 14F | 14 | INSERT | High Angle | Static | ప్రిస్క్రిప్షన్ రాస్తున్నారు. DOCTOR (CONT'D): బ్లడ్ టెస్టులు | Tripod |
-| 14G | 14 | MS | Eye-level | Static | ప్రిస్క్రిప్షన్ కార్తీక్‌కి ఇస్తారు: "థాంక్యూ, డాక్టర్." | Tripod |
-| 14H | 14 | WS | Eye-level | Static | తల్లిదండ్రులు బయటకు వెళ్తారు; వెనకే ఆధ్య గెంతుతూ వెళ్తుంది | Tripod |
-| 15A | 15 | CU | High Angle | Static | ఆవిర్లు కక్కుతున్న ఇడ్లీల ప్లేట్ | Tripod, ఆవిరి కోసం backlight |
-| 15B | 15 | WS | Eye-level | Static | కుటుంబం తింటూ, కబుర్లు చెప్పుకుంటూ, నవ్వుకుంటుంది | Tripod |
-| 15C | 15 | CU | Eye-level | Static | ఆధ్య మళ్ళీ మామూలుగా అయిపోయింది | Tripod |
-| 16A | 16 | WS | Overhead | Static | 6A రిపీట్: ముగ్గురూ కలిసి నిద్రపోతున్నారు | Top-down rig; 6A కి మ్యాచ్ |
-| 17A | 17 | CU | Eye-level (దిండు ఎత్తు) | Static | ఆధ్య నిద్రపోతోంది, కిటికీలో పగటి వెలుగు. KARTHIK (O.S.): "బై, స్నేహ!" | Tripod |
-| 17B | 17 | WS | Eye-level | Static | ఆధ్య మంచం మీంచి దూకి పరిగెడుతుంది | Tripod |
-| 18A | 18 | WS | Eye-level | Static | లేట్ అయిపోయి కంగారుగా ఉన్న కార్తీక్, లోపల ముందు తలుపు దగ్గర | Tripod |
-| 18B | 18 | CU | Eye-level | Static | స్నేహ చేతిలోంచి బ్యాగ్ లాక్కుంటాడు | Tripod |
-| 18C | 18 | MS | Eye-level | Pan | తల మీద ఏమీ లేకుండా గబగబా బయటకు వెళ్ళిపోతాడు. హెల్మెట్ లేదు | Tripod, fluid head |
-| 18D | 18 | OTS | Eye-level (ఆధ్య ఎత్తు) | Static | 2B రిపీట్: ఆధ్య చూస్తున్నది అతను గమనించడు | Tripod; 2B కి మ్యాచ్ |
-| 18E | 18 | CU | Eye-level | Static (locked off) | ఆధ్య బిగుసుకుపోతుంది, రాయిలా నిలబడిపోతుంది; ఫోకస్ లాక్, హాల్ మసకబారుతుంది | Tripod, fast prime |
-| 18F | 18 | MS | Eye-level | Static | స్నేహ తలుపు వేసి, భయంతో ఉన్న ఆధ్యని చూస్తుంది: "ఈ రోజు డాడీకి లేట్ అయింది..." | Tripod |
-| 18G | 18 | CU | Eye-level | Static | ఏ స్పందనా లేదు | Tripod |
-| 18H | 18 | INSERT | Eye-level | Static | స్నేహ ఆమె చెయ్యి పట్టుకుంటుంది: వేడిగా ఉంది, జ్వరం మళ్ళీ వచ్చింది | Tripod |
-| 18I | 18 | MS | Eye-level | Static | స్నేహ ఆమెని సోఫాలో కూర్చోబెట్టి, మెడిసిన్ ఇస్తుంది | Tripod |
-| 18J | 18 | CU | Eye-level | Static | ఆధ్య కళ్ళు తలుపు నుంచి కదలవు; ముందు స్నేహ మసకగా | Tripod, shallow focus |
-| 18K | 18 | MCU | Eye-level | Static | భయపడిన స్నేహ కార్తీక్‌కి ఫోన్ చేస్తుంది | Tripod |
-| 19A | 19 | WS | Eye-level | Track | ఉదయం ట్రాఫిక్; కార్తీక్ హెల్మెట్ లేకుండా బైక్ నడుపుతున్నాడు | Tracking vehicle, gimbal, or car-mount arm |
-| 19B | 19 | CU | Eye-level | Track | వాచ్ వైపు చూస్తాడు: లేట్ అయింది | Bike mount |
-| 19C | 19 | INSERT | Eye-level | Track | చెయ్యి థ్రాటిల్ తిప్పుతుంది; ఇంజన్ రయ్ (ENGINE REVS) మంటుంది | Bike mount |
-| 19D | 19 | INSERT | High Angle | Track | జేబులో ఫోన్ వైబ్రేట్ (BUZZES) అవుతుంది | Bike mount |
-| 19E | 19 | MS | Eye-level | Track | ఒక్క చేత్తో బైక్ నడుపుతూ, ఫోన్ బయటకు తీసి కిందకి చూస్తాడు | Tracking vehicle; closed road, stunt rider double |
-| 19F | 19 | WS | Low Angle | Static | ఒక కారు గర్జిస్తూ (ROARS) ప్రమాదకరంగా దగ్గరగా దూసుకెళ్తుంది | Tripod low; stunt coordinator; దూరం తక్కువగా కనిపించడానికి long lens |
-| 19G | 19 | CU | Eye-level | Track | కార్తీక్ ఉలిక్కిపడతాడు | Bike mount |
-| 19H | 19 | INSERT | Eye-level | Track | హ్యాండిల్‌బార్ పట్టుకుంటాడు, ఫోన్ ఇంకా పిడికిట్లోనే | Bike mount |
-| 19I | 19 | MS | Eye-level | Track | కష్టపడి బైక్‌ని అదుపులోకి తెచ్చుకుంటాడు | Tracking vehicle; stunt double |
-| 19J | 19 | CU | Eye-level | Static | గుండె దడదడలాడుతోంది; ఫోకస్ కళ్ళ మీద, వెనక ట్రాఫిక్ గీతల్లా దూసుకుపోతోంది | Tripod, long lens |
-| 19K | 19 | WS | Eye-level | Static | పక్కకి ఆపి ఫోన్ ఎత్తుతాడు. SNEHA (ON PHONE) / "వెనక్కి వచ్చేస్తున్నా." | Tripod |
-| 19L | 19 | WS | Eye-level | Pan | U-టర్న్ తీసుకుని ఇంటి వైపు వేగంగా తిరిగి వెళ్తాడు | Tripod, fluid head |
-| 20A | 20 | WS | Eye-level | Static | కార్తీక్ లోపలికి వచ్చి ఆధ్య పక్కన కూర్చుంటాడు: "ఏమైందిరా, బంగారం?..." | Tripod |
-| 20B | 20 | CU | Eye-level | Static | ఆధ్య ఏమీ మాట్లాడదు | Tripod |
-| 20C | 20 | MS | Eye-level | Static | అతని ఒళ్ళో తల పెట్టుకుని నిద్రపోతుంది | Tripod |
-| 20D | 20 | WS | Eye-level | Static | స్నేహ కార్తీక్ పక్కన కూర్చుంటుంది | Tripod |
-| 20E | 20 | MS 3-shot | Eye-level | Static | స్నేహ: "అది ఇలాగే ఉంటోంది..." / కార్తీక్: "కంగారు పడకు..." | Tripod. Coverage: స్నేహ, కార్తీక్ మీద singles |
-| 20F | 20 | MS 3-shot | Eye-level | Static | స్నేహ కార్తీక్ భుజం మీద తల వాలుస్తుంది; హోల్డ్ | Tripod, 21A కి dissolve కోసం locked off |
-| 21A | 21 | MS 3-shot | Eye-level | Static | అదే యాంగిల్, కాసేపటి తర్వాత: కుటుంబం అంతా సోఫాలోనే నిద్రపోతున్నారు | Tripod; 20F కి మ్యాచ్ |
-| 21B | 21 | CU | Eye-level | Static | డాడీ ఒళ్ళో ఆధ్య నిద్ర లేచి, నవ్వుతుంది | Tripod |
-| 21C | 21 | MS | Eye-level | Static | స్నేహని, కార్తీక్‌ని కుదిపి లేపుతుంది | Tripod |
-| 21D | 21 | CU | Eye-level | Static | ఆమె కణత మీద అరచెయ్యి: "వావ్, జ్వరం తగ్గిపోయింది బంగారం!..." | Tripod |
-| 21E | 21 | CU | Eye-level | Static | ఆధ్య బద్ధకంగా, ఆసక్తి లేనట్టు చూస్తుంది | Tripod |
-| 21F | 21 | MCU | Eye-level | Static | కార్తీక్: "ఈ రోజు స్కూల్ బంక్ కొట్టేద్దాం..." | Tripod |
-| 21G | 21 | CU | Eye-level | Static | పెద్ద నవ్వు | Tripod |
-| 21H | 21 | WS | Eye-level | Static | ఆధ్య అతని ఒళ్ళోంచి దిగి బాత్రూమ్‌కి గెంతుతూ వెళ్తుంది | Tripod |
-| 22A | 22 | WS | Eye-level | Static | 14A రిపీట్: డాక్టర్ గది, పగలు | Tripod; 14A కి మ్యాచ్ |
-| 22B | 22 | INSERT | High Angle | Static | టేబుల్ మీద టెస్ట్ రిపోర్టులు; డాక్టర్ చదువుతున్నారు | Tripod |
-| 22C | 22 | MS | Eye-level | Static | డాక్టర్: "అంతా నార్మల్‌గానే ఉంది." | Tripod |
-| 22D | 22 | MS | Eye-level | Static | స్నేహ: "కానీ డాక్టర్, దానికి జ్వరం వస్తోంది..." | Tripod |
-| 22E | 22 | MS | Eye-level | Static | డాక్టర్: "ఇందులో కంగారు పడాల్సింది ఏమీ లేదు..." | Tripod |
-| 22F | 22 | MS | Eye-level | Static, rack focus | డాక్టర్ నుంచి ఆధ్యకి rack, మౌనంగా, కళ్ళు కిందకి దించుకుని | Tripod, follow focus |
-| 22G | 22 | WS | Eye-level | Static | "థాంక్యూ, డాక్టర్." వాళ్ళు బయలుదేరుతారు; ఆధ్య వెనకే వెళ్తుంది | Tripod |
-| 23A | 23 | Various | Eye-level | Handheld | మాంటేజ్: కుటుంబం సిటీ అంతా తిరుగుతుంది; స్కూల్ ఎగ్గొట్టినందుకు ఆధ్య ఫుల్ ఖుషీ | Handheld, run-and-gun, natural light |
-| 24A | 24 | WS | Eye-level | Static | గోల్డెన్ అవర్. జారుడుబల్ల, ఉయ్యాలల మీద ఆధ్య | Tripod, long lens |
-| 24B | 24 | MS 2-shot | Eye-level | Static | బెంచ్ మీద కార్తీక్, స్నేహ (ముందు), ఉయ్యాల ఊగుతున్న ఆధ్య (వెనక); డీప్ ఫోకస్ | Tripod, stopped down |
-| 24C | 24 | MS | Eye-level | Track | ఆధ్య గెంతుతూ వచ్చి, వాళ్ళ మధ్యలో దూరి, కార్తీక్ భుజం మీద తల పెడుతుంది | Steadicam |
-| 24D | 24 | MS 3-shot | Eye-level | Static | బెంచ్: "బంగారం, నువ్వు హ్యాపీగా ఉన్నావా?" నుంచి "మాకు అర్థం కావట్లేదు." దాకా | Tripod. Scenes 24, 33, 36 కి MASTER |
-| 24E | 24 | CU | Eye-level | Static | ఆధ్య తల ఊపుతుంది; "నువ్వే డాడీ..." | Tripod |
-| 24F | 24 | CU | Eye-level | Slow push in | కార్తీక్ నిర్ఘాంతపోయి, అయోమయంగా | Slider |
-| 24G | 24 | CU | Eye-level | Static | స్నేహ: "డాడీ నిన్ను ఎలా భయపెడతారురా?" | Tripod |
-| 24H | 24 | MS | Eye-level | Static | ఆధ్య అమ్మకి దగ్గరగా జరుగుతుంది: "ఒక రోజు, నేను స్కూల్ వ్యాన్‌లో ఉన్నప్పుడు..." | Tripod |
-| 24I | 24 | CU | Eye-level | Static, focus softens | ఆధ్య కళ్ళు జ్ఞాపకంలోకి జారుకుంటాయి; dissolve కోసం defocus | Tripod, follow focus |
-| 25A | 25 | WS | Eye-level | Pan | పాటలు పాడుతున్న పిల్లలతో నిండిన స్కూల్ వ్యాన్ వీధిలో వెళ్తోంది | Tripod, fluid head |
-| 25B | 25 | MS | Eye-level | Static | వ్యాన్ లోపల: పిల్లల మధ్యలో ఆధ్య | Handheld or van-mounted, small camera |
-| 25C | 25 | WS | Eye-level | Static | చిన్న లాన్ ఉన్న ఒక ఇండిపెండెంట్ ఇంటి దగ్గర వ్యాన్ ఆగుతుంది; డ్రైవర్ హారన్ కొడతాడు | Tripod |
-| 25D | 25 | MWS | Eye-level (వ్యాన్ కిటికీ) | Static | కిటికీలోంచి ఆధ్య POV: లాన్‌లో కుర్చీ మీద రాజు | Shoot through van glass, polarizer |
-| 25E | 25 | MS | Eye-level | Tilt down | రాజు తలకి, వేళ్ళకి కట్లు, కాస్ట్‌లు, స్లింగ్, చేతికర్ర | Tripod, fluid head |
-| 25F | 25 | CU | Eye-level | Static | డ్రైవర్ మళ్ళీ హారన్ కొడతాడు | Tripod, వ్యాన్‌లో |
-| 25G | 25 | WS | Eye-level | Static | ముందు తలుపు ఒక్కసారిగా తెరుచుకుంటుంది; బరువైన బ్యాగ్, లంచ్ బాక్స్‌తో 6 ఏళ్ళ పాప బయటకు పరిగెత్తుకొస్తుంది | Tripod |
-| 25H | 25 | MS | Eye-level | Track | గేటు దాకా సగం దూరం వచ్చేసరికి కాలు తడబడుతుంది | Gimbal |
-| 25I | 25 | MS | Floor level | Static | బోర్లా పడిపోయి, ఏడుపు అందుకుంటుంది | Ground plate; padded fall, child safety supervisor |
-| 25J | 25 | CU | Eye-level | Static | రాజు లేవడానికి కష్టపడతాడు, లేవలేకపోతాడు | Tripod |
-| 25K | 25 | MS | Eye-level | Static | చేతికర్ర సాయంతో తూలుతూ పైకి లేస్తాడు | Tripod |
-| 25L | 25 | INSERT | Low Angle | Static | అతని పాదం: కూతురి వైపు ఒక్క అడుగు | Tripod low |
-| 25M | 25 | WS | Eye-level | Static | బ్యాలెన్స్ తప్పి ఆమె పక్కనే దభీమని పడిపోతాడు | Tripod; stunt pads, actor safety |
-| 25N | 25 | WS | Eye-level | Static | రాజు భార్య పరిగెత్తుకొచ్చి, పాపని లేపి, తర్వాత రాజుని లేపుతుంది | Tripod |
-| 25O | 25 | CU | Eye-level | Static | రాజు నొప్పితో ముఖం చిట్లిస్తూ మెల్లగా లేస్తాడు | Tripod |
-| 25P | 25 | MS | Eye-level | Static | పాప కన్నీళ్ళు తుడుచుకుని, వ్యాన్ వైపు నడుస్తుంది; తల్లిదండ్రులు చూస్తుంటారు | Tripod |
-| 25Q | 25 | MS 2-shot | Eye-level | Static | రాజు తన భార్యతో: "నా సొంత బిడ్డకి కూడా సాయం చేయలేకపోయాను..." | Tripod |
-| 25R | 25 | CU | Eye-level (వ్యాన్ కిటికీ) | Static, rack focus | వ్యాన్ లోపలి నుంచి: అద్దంలో ఆధ్య ప్రతిబింబం నుంచి కన్నీళ్ళు నిండిన రాజు ముఖానికి rack | Tripod in van, long lens, follow focus |
-| 26A | 26 | MS | Eye-level | Static | పాప ఆధ్య పక్కన కూర్చుంటుంది; వ్యాన్ కదులుతుంది | Van interior rig, small camera |
-| 26B | 26 | WS | Eye-level | Handheld | పిల్లలు చుట్టూ మూగుతారు: "మీ నాన్నకి ఏమైంది?" ... "ఎలా?" | Handheld |
-| 26C | 26 | CU | Eye-level | Slow push in | పాప చెప్పడం మొదలుపెడుతుంది | Mini slider, van interior |
-| 27A | 27 | WS | Eye-level | Static | దుమ్ము పట్టిన యార్డ్ ఆఫీస్, సోడియం ల్యాంప్‌లు; ఇనుప టేబుల్ వెనక ఆరోగ్యంగా ఉన్న రాజు | Tripod, sodium-vapor practicals, haze |
-| 27B | 27 | MS | Eye-level | Pan | పేపర్లు, ఫైళ్ళు, మూలన ఉన్న సేఫ్టీ హెల్మెట్ దాకా; ఫోకస్ హెల్మెట్ మీద, రాజు మసకగా | Tripod, fluid head |
-| 27C | 27 | MS | Eye-level | Static | బెంచ్ మీద ఐదుగురు వర్కర్లు; ఫోన్‌లో వర్కర్ 1: "సార్, అన్‌లోడింగ్..." | Tripod |
-| 27D | 27 | MS | Eye-level | Static | రాజు లేస్తాడు: "పదండి, కిందకి వెళ్ళి చెక్ చేద్దాం..." | Tripod |
-| 27E | 27 | INSERT | Eye-level | Static, rack focus | హెల్మెట్ టేబుల్ మీదే ఉండిపోతుంది; వెళ్ళిపోతున్న రాజుకి rack | Tripod, follow focus |
-| 27F | 27 | MS | Eye-level | Static | వర్కర్ 2: "సార్, మీ సేఫ్టీ షూస్, హెల్మెట్ మర్చిపోయారు." | Tripod |
-| 27G | 27 | MS | Eye-level | Static | గుమ్మం దగ్గర రాజు: "ఒంటిగంట అవుతోంది..." | Tripod |
-| 27H | 27 | WS | Eye-level | Static | మెట్లు దిగి బయటకు వెళ్ళిపోతాడు; వదిలేసిన హెల్మెట్ మీద హోల్డ్ | Tripod |
-| 28A | 28 | EWS | High Angle | Static | దుమ్ముతో నిండిన విశాలమైన వేర్‌హౌస్; స్టీల్ బ్లూమ్స్, పైపుల గుట్టలు | Tripod on gantry or drone (indoor); haze |
-| 28B | 28 | WS | Eye-level | Pan | రెండు ఓవర్‌హెడ్ క్రేన్లు 18-చక్రాల ట్రక్కు మీంచి బ్లూమ్స్ ఎత్తుతున్నాయి | Tripod, long lens. నిజమైన ప్లాంట్ ఆపరేషన్స్; సెట్‌లో ప్లాంట్ సేఫ్టీ ఆఫీసర్ ఉండాలి |
-| 28C | 28 | MS | Eye-level | Static | ఫుల్ PPE లో ఉన్న రిగ్గర్లు ఆపరేటర్లకి గైడ్ చేస్తున్నారు | Tripod |
-| 28D | 28 | WS | Low Angle | Tilt up | రెండు స్లింగ్‌లకి వేలాడుతున్న బ్లూమ్, ఒక్కో చివర ఒక్కోటి | Tripod |
-| 28E | 28 | MS | Eye-level | Track | రాజు మధ్యలోంచి తాపీగా నడుస్తున్నాడు: హెల్మెట్ లేదు, గాగుల్స్ లేవు, సేఫ్టీ షూస్ లేవు | Steadicam |
-| 28F | 28 | INSERT | Eye-level | Static | క్విక్ ఇన్సర్ట్‌లు: ఖాళీ తల, రక్షణ లేని కళ్ళు, దుమ్ము నేల మీద మామూలు షూస్ | Tripod, 3 setups |
-| 28G | 28 | WS | Low Angle | Static | ముందు రాజు, సరిగ్గా అతని తల మీదుగా వెళ్తున్న బ్లూమ్ | Tripod low. Composite: యాక్టర్ మీద లైవ్ లోడ్ ఉండకూడదు |
-| 28H | 28 | ECU | Low Angle | Static | టప్ (SNAP): ఒక స్లింగ్ తెగిపోతుంది | Practical breakaway sling on prop rig or VFX |
-| 28I | 28 | WS | Eye-level | Static | స్లో మోషన్: బ్లూమ్ ఒక చివర కిందకి జారి, లోలకంలా ఊగుతుంది | High-speed camera (120fps+). Lightweight prop bloom or CG |
-| 28J | 28 | MS | Low Angle (రాజు POV) | Static | ఊగుతున్న చివర కెమెరా వైపు దూసుకొస్తుంది | High-speed camera; prop on safety cable, or CG |
-| 28K | 28 | CU | Eye-level | Static | దగ్గర్లో ఉన్న రిగ్గర్ అది చూస్తాడు | Tripod |
-| 28L | 28 | MS | Eye-level | Handheld | రిగ్గర్ దూకి రాజుని పక్కకి లాగేస్తాడు | Handheld, real time; stunt coordinator, pads |
-| 28M | 28 | CU | Eye-level | Static | బ్లూమ్ అంగుళాల తేడాతో అతన్ని తప్పుతుంది | Tripod; VFX composite |
-| 28N | 28 | MS | Floor level | Static | రాజు గట్టిగా నేల మీద పడతాడు | Ground plate; stunt pad |
-| 28O | 28 | WS | Eye-level | Static | ఊగుతున్న బ్లూమ్ పైపుల గుట్టని గుద్ది కదిలించేస్తుంది | Tripod; foam prop pipes or VFX |
-| 28P | 28 | CU | Eye-level | Static | రాజు తడబడుతూ లేస్తున్నాడు, ఏమీ తెలియకుండా; వెనక గుట్ట ఊగుతూ మసకగా | Tripod, shallow focus |
-| 28Q | 28 | ECU | Low Angle | Static | రెండో స్లింగ్ కూడా తెగిపోతుంది | Tripod; breakaway or VFX |
-| 28R | 28 | WS | Eye-level | Static | చెవులు చిల్లులు పడే దబ్ (THUD) మనే శబ్దంతో బ్లూమ్ కుప్పకూలుతుంది; దుమ్ము మేఘం ఎగసిపడుతుంది | Tripod; practical dust mortar (SFX) |
-| 28S | 28 | CU | Eye-level | Static | దుమ్ము మొత్తం నేరుగా రాజు కళ్ళలో పడుతుంది | Tripod; safe cosmetic dust, eye-safe |
-| 28T | 28 | MS | Eye-level (రాజు POV) | Handheld | దృశ్యం ఫోకస్ తప్పి మసకబారుతుంది; తడబడుతూ గుట్ట వైపు వెళ్తాడు | Handheld, defocus/diffusion |
-| 28U | 28 | ECU | Floor level | Static | అతని కాలు దొర్లుతున్న పైపు మీద పడుతుంది | Ground plate |
-| 28V | 28 | WS | Eye-level | Static | కాళ్ళు జారిపోతాయి; కింద పడిపోతాడు | Tripod; stunt double |
-| 28W | 28 | WS | Overhead | Static | అతని కాళ్ళు, చేతులు, తల మీద పైపులు వర్షంలా పడతాయి | Top-down rig; foam/rubber prop pipes, stunt double |
-| 28X | 28 | WS | Overhead | Static | నిశ్శబ్దం. దుమ్ము సద్దుమణుగుతుంది. రాజు స్పృహ లేకుండా పడి ఉన్నాడు | Top-down rig, locked off |
-| 29A | 29 | WS | Eye-level | Static | ఒళ్ళంతా కట్లతో హాస్పిటల్ బెడ్ మీద రాజు | Tripod |
-| 29B | 29 | MS 2-shot | Eye-level | Static | కొలీగ్ రాజు భార్యతో మెల్లగా మాట్లాడుతున్నాడు; ఆమె పక్కన పాప | Tripod |
-| 29C | 29 | CU | Eye-level (పిల్లల ఎత్తు) | Static | పాప వింటోంది; పైన పెద్దవాళ్ళు మసకగా | Tripod low, shallow focus |
-| 30A | 30 | CU | Eye-level | Static | పాప తన కథ ముగిస్తుంది: "డాక్టర్ చెప్పారు..." | Van interior rig |
-| 30B | 30 | CU | Eye-level | Static | ఆమె కళ్ళలో నీళ్ళు తిరుగుతాయి | Van interior rig |
-| 30C | 30 | WS | Eye-level | Static | పిల్లలంతా మౌనంగా అయిపోతారు | Van interior rig, wide lens |
-| 30D | 30 | CU | Eye-level | Static | ఆధ్య కిటికీలోంచి బయటకు చూస్తూ ఉండిపోతుంది; అద్దం అవతల ప్రపంచం మసకగా దూసుకుపోతుంది | Van interior rig, shallow focus |
-| 31A | 31 | WS | Eye-level | Slow push in | తన డెస్క్ దగ్గర ఆధ్య, మనసు ఎక్కడో ఉంది; క్లాస్‌రూమ్ మసకబారుతుంది. V.O.s | Dolly |
-| 32A | 32 | MS | Eye-level | Track | ఆధ్య ఇంటికి వచ్చి, బ్యాగ్ పడేసి, స్నేహ దగ్గరికి పరిగెడుతుంది | Steadicam |
-| 32B | 32 | MS 2-shot | Eye-level | Static | ఆధ్య, స్నేహ: సేఫ్టీ ఎక్విప్‌మెంట్ గురించి డైలాగ్ | Tripod |
-| 32C | 32 | CU | Eye-level | Static | ఆధ్య ప్రతి మాటా శ్రద్ధగా వింటుంది; ఊరట నిండిన చిన్న నవ్వు | Tripod |
-| 33A | 33 | MS 3-shot | Eye-level | Static | బెంచ్, ప్రస్తుతం: ఆధ్య పెద్ద వివరణ | Tripod; 24D కి మ్యాచ్ |
-| 33B | 33 | CU | Eye-level | Static | ఆధ్య, మొత్తం స్పీచ్‌కి coverage | Tripod |
-| 33C | 33 | CU | Eye-level | Static | స్నేహ మెల్లగా తల ఊపుతుంది; అంతా అర్థమవుతుంది | Tripod |
-| 33D | 33 | MS | Eye-level | Static | ఆధ్య జుట్టు నిమురుతుంది: "ఓహ్. అందుకేనా..." | Tripod |
-| 33E | 33 | CU | Eye-level | Static | కార్తీక్: "మరి ఈ రోజు పొద్దున నీకు జ్వరం ఎందుకు వచ్చింది?" | Tripod |
-| 33F | 33 | ECU | Eye-level | Static | "ఎందుకంటే నువ్వు వెళ్ళడం నేను చూశాను..." కార్తీక్ స్తంభించిపోతాడు; ఫోకస్ కళ్ళ మీద లాక్ | Tripod, macro or long lens |
-| 34A | 34 | MS | Eye-level | Static | ఫ్లాష్‌బ్యాక్: కార్తీక్ బ్యాగ్ లాక్కుని, హెల్మెట్ లేకుండా గబగబా బయటకు వెళ్తాడు | 18C రీయూజ్, or pickup |
-| 35A | 35 | ECU | Eye-level | Track | ఫ్లాష్‌బ్యాక్: కార్తీక్ కళ్ళు ఫోన్ మీద | 19E/19G రీయూజ్, or pickup |
-| 35B | 35 | WS | Low Angle | Static | ఫ్లాష్‌బ్యాక్: అంగుళాల దూరంలో కారు గర్జిస్తూ దూసుకెళ్తుంది | 19F రీయూజ్ |
-| 36A | 36 | CU | Eye-level | Static | కార్తీక్ తన కూతురి వైపు కిందకి చూస్తాడు | Tripod |
-| 36B | 36 | CU | Eye-level | Slow push in, rack focus | మెల్లగా అర్థమవుతుంది; కార్తీక్ నుంచి అతని భుజం మీదున్న ఆధ్యకి rack, మళ్ళీ వెనక్కి | Slider, follow focus |
-| 36C | 36 | MS | Eye-level | Static | ఆమెని రెండు చేతులతో హత్తుకుంటాడు: "నువ్వేం కంగారు పడక్కర్లేదు..." | Tripod |
-| 36D | 36 | CU | Eye-level | Static | ఆధ్య తల ఎత్తి అతని వైపు చూస్తుంది | Tripod |
-| 36E | 36 | MS | Eye-level | Static | గట్టిగా చేతులు చుట్టి పెద్ద హగ్ ఇస్తుంది | Tripod |
-| 36F | 36 | WS | High Angle | Crane up and pull back | సాయంత్రం వెలుగులో బెంచ్, కుటుంబం; టైటిల్ కార్డ్స్ కోసం హోల్డ్ | Jib or drone |
-| 37A | 37 | WS | Eye-level | Static | వెనక నుంచి: కుటుంబం దారి వెంట గేటు వైపు నడుస్తోంది | Tripod |
-| 37B | 37 | MS 3-shot | Eye-level | Track | పక్కనుంచి: "నీ ఫ్రెండ్ ఎక్కడ..." నుంచి "...సొంత ఊరు." దాకా | Steadicam or gimbal, leading/parallel |
-| 37C | 37 | INSERT | Eye-level | Track | కార్తీక్ ఆమె చేతిని ఇంకొంచెం గట్టిగా పట్టుకుంటాడు | Gimbal |
-| 37D | 37 | WS | Eye-level | Static | వెనక నుంచి: కెమెరా ఆగిపోతుంది; వాళ్ళు నడుస్తూనే ఉంటారు, చిన్నగా అవుతూ. ఫైనల్ టైటిల్ కార్డ్స్, fade out | Tripod, locked off |
+| Shot # | Scene # | Size | Angle | Camera Angle / Position | Movement | Subject/Action | Gear Notes |
+|---|---|---|---|---|---|---|---|
+| 1A | 1 | TITLE CARD | N/A | N/A — టైటిల్ కార్డ్ | Static | నల్లటి స్క్రీన్ మీద టైటిల్: "SAFETY" / "ఒక ఒరిజినల్ షార్ట్ ఫిల్మ్" | Post (graphics); fade in / fade out |
+| 1B | 1 | ECU | Eye-level | Insert, Side-on — బీరువా తలుపు అంచు పక్క నుంచి, తెరుచుకునే గ్యాప్ మీద | Static | తెల్లవారకముందు చీకటి. బీరువా తలుపు కిర్రుమని (CREAKS) తెరుచుకుంటుంది | Tripod, macro lens, low-key practical light |
+| 1C | 1 | MS | Eye-level | Back 3/4 — బీరువా పక్క నుంచి కార్తీక్ వీపు, మంచం వైపు ఫ్రేమ్ వెలుపల | Static | కార్తీక్ (38) వీలైనంత నిశ్శబ్దంగా తన బట్టలు బయటకు తీస్తాడు; ఈ రోజు morning shift, ఆరు గంటల లోపే బయల్దేరాలి | Tripod |
+| 1D | 1 | MS | Low Angle (మంచం ఎత్తు) | Front 3/4 Right — మంచం అంచు దగ్గర కిందుగా, ఆధ్య కదలిక, వెనక బీరువా | Static | కిర్రు శబ్దానికి ఆధ్య (8) మంచం మీద కదులుతుంది, కంగారు లేకుండా; ఈ శబ్దం ఆమెకు బాగా తెలుసు | Tripod, low hi-hat |
+| 1E | 1 | CU | Eye-level (దిండు ఎత్తు) | Frontal — గడియారం గోడ వైపు నుంచి ఆధ్య ముఖం, వెనక కార్తీక్ మసక సిల్హౌట్ | Static | ఆధ్య కళ్ళు సగం తెరుచుకుంటాయి; షాలో ఫోకస్, వెనక కార్తీక్ మసకగా సిల్హౌట్‌లా | Tripod, fast prime, wide aperture |
+| 1F | 1 | INSERT | Eye-level | POV — ఆధ్య, దిండు మీద నుంచి ఎదురుగా గోడ గడియారం వైపు | Static, rack focus | ఆధ్య POV: ఎదురుగా గోడ గడియారం ఫోకస్‌లోకి వస్తుంది, 5:20 | Tripod, follow focus. HERO SETUP, 1H, 7A లో మళ్ళీ వాడాలి |
+| 1G | 1 | CU | Eye-level | Frontal — 1E సెటప్ అదే (locked off), ఆధ్య ముఖం కెమెరా వైపు | Static | ఆధ్య మళ్ళీ కళ్ళు మూసుకుని నిద్రలోకి జారుకుంటుంది. టైమ్ కట్, అదే ఫ్రేమ్: ముందు తలుపు కిర్రుమని (CREAKS) తెరుచుకుంటుంది, ఆధ్య కళ్ళు మళ్ళీ బద్ధకంగా తెరుచుకుంటాయి | Tripod; టైమ్ కట్ కోసం locked off |
+| 1H | 1 | INSERT | Eye-level | POV — ఆధ్య, గోడ గడియారం (1F ఫ్రేమింగ్ అదే) | Static | గడియారం 5:45 చూపిస్తుంది. KARTHIK (O.S.): "Bye, స్నేహా." | Tripod; 1F ఫ్రేమింగ్‌కి మ్యాచ్ చేయాలి |
+| 1I | 1 | CU | Eye-level | Frontal — 1E సెటప్ అదే; ఆధ్య లేచి ఫ్రేమ్‌లోకి కూర్చుంటుంది | Static | ఆధ్య ఒక్కసారిగా లేచి ఫ్రేమ్‌లోకి కూర్చుంటుంది; ఫోకస్ ఆమె మీదకి స్నాప్ అవుతుంది | Tripod |
+| 1J | 1 | WS | Eye-level | Side-on, whip to From Behind — గది మూల నుంచి, ఆధ్య గుమ్మం వైపు పరిగెత్తుతుంటే | Whip pan | ఆధ్య గబగబా మంచం దిగి, ఆందోళనగా గదిలోంచి బయటకు పరిగెడుతుంది | Gimbal |
+| 2A | 2 | MS | Eye-level | Frontal, leading — బెడ్‌రూమ్ గుమ్మం నుంచి హాల్‌లోకి వస్తున్న ఆధ్య ముందు నుంచి | Track | ఆధ్య హాల్లోకి పరిగెత్తుకొచ్చి suddenగా ఆగిపోతుంది | Steadicam |
+| 2B | 2 | OTS | Eye-level (ఆధ్య ఎత్తు) | OTS (ఆధ్య భుజం మీదుగా) on కార్తీక్ — తెరిచిన main door ద్వారా, వీపు కనిపిస్తూ | Static | ఆధ్య భుజం మీదుగా: తెరిచి ఉన్న main door లోంచి, వీధి వైపు తిరిగి నిలబడ్డ కార్తీక్ బైక్ హెల్మెట్ పెట్టుకుంటున్నాడు; డీప్ ఫోకస్ | Tripod, low; డీప్ ఫోకస్ కోసం stop down. HERO SETUP, 8A మరియు 18D లో మళ్ళీ వాడాలి |
+| 2C | 2 | ECU | Eye-level | Profile Right — గుమ్మంలో కార్తీక్ గడ్డం కింద హెల్మెట్ బెల్ట్ మీద | Static | కార్తీక్ హెల్మెట్ బెల్ట్ బిగించుకుంటాడు | Tripod, macro |
+| 2D | 2 | CU | Eye-level | Frontal — main door వైపు నుంచి ఆధ్య ముఖం (reverse of 2B) | Static | ఆధ్య ఆందోళన నిండిన ముఖం చిన్న నవ్వుగా మారుతుంది | Tripod |
+| 2E | 2 | WS | Eye-level | From Behind — హాల్ లోపలి నుంచి, తెరిచిన main door ద్వారా బైక్; ముందు స్నేహ | Static | గుమ్మం గుండా: కార్తీక్ బైక్ మీద వెళ్ళిపోతాడు; స్నేహ (30) తలుపు వేసి వెనక్కి తిరుగుతుంది | Tripod; బైక్ మూవ్‌కి బయట క్లియరెన్స్ కావాలి |
+| 2F | 2 | MS 2-shot | Eye-level | Two-Shot, Profile — స్నేహ door దగ్గర (ఫ్రేమ్ ఎడమ), ఆధ్య హాల్‌లో (కుడి) | Static | స్నేహ నవ్వుతూ నిలబడ్డ ఆధ్యని చూస్తుంది: "డాడీ ఇప్పుడే వెళ్ళిపోయారు. ఆఫీస్‌కి బయల్దేరారు. నువ్వు వెళ్ళి పడుకో. స్కూల్‌కి నేను లేపుతాలే." | Tripod |
+| 2G | 2 | MS | Eye-level | Front 3/4 Left on స్నేహ — ఆధ్య బెడ్‌రూమ్ వైపు వెళ్తూ ఫ్రేమ్ నుంచి వెళ్ళిపోతుంది | Static | ఆధ్య తల ఊపి, ఇంకా నవ్వుతూనే, మెల్లగా బెడ్‌రూమ్ వైపు నడుస్తుంది; స్నేహ మీద హోల్డ్ | Tripod |
+| 3A | 3 | INSERT | Eye-level | Frontal, straight-on — గోడ గడియారం ఎదురుగా | Static | గోడ గడియారం 3:30 చూపిస్తుంది | Tripod. HERO SETUP, 9A లో మళ్ళీ వాడాలి |
+| 3B | 3 | MS | Eye-level | Front 3/4 Right — main door పక్క నుంచి, సోఫాలో స్నేహ | Static | స్నేహ సోఫాలో కూర్చుని ఎదురుచూస్తోంది | Tripod |
+| 3C | 3 | WS | Eye-level | Frontal — హాల్ లోపల సోఫా వెనక నుంచి main door వైపు, ఆధ్య లోపలికి వస్తూ | Static | main door దబ్బున తెరుచుకుంటుంది; స్కూల్ యూనిఫామ్, వీపు మీద బ్యాగ్, చేతిలో ఊగుతున్న లంచ్ బాక్స్‌తో ఆధ్య ఎగురుకుంటూ లోపలికి వస్తుంది | Tripod. HERO SETUP, 9B లో మళ్ళీ వాడాలి |
+| 3D | 3 | MS | Eye-level | Front 3/4 Right to Profile — స్నేహ లేస్తుంది, ఆధ్య ఆమెను దాటి పాన్‌లో | Pan | బరువు అందుకోవడానికి స్నేహ లేస్తుంది; ఆధ్య ఆమెను దాటుకుని నేరుగా వెళ్ళిపోతుంది | Tripod, fluid head |
+| 3E | 3 | CU | Floor level | Ground-level, Side-on — నేల మీద, బ్యాగ్/బాక్స్ పడే చోట, shoes దొర్లి వస్తాయి | Static | బ్యాగ్ దబ్ (THUMPS) మని, లంచ్ బాక్స్ ఖంగ్ (CLANKS) మని నేల మీద పడతాయి; నడుస్తూనే విసిరేసిన shoes దొర్లుతూ ఫ్రేమ్‌లోకి వస్తాయి | Ground plate / baby legs |
+| 3F | 3 | MCU (పాదాలు) | Floor level | Profile (Side-on) — నేల ఎత్తులో పాదాల పక్కనుంచి, సోఫా వైపు ట్రాక్ | Track | socksతోనే గెంతుకుంటూ సోఫా దగ్గరికి వెళ్తుంది | Slider or low gimbal |
+| 3G | 3 | MS | Eye-level | Frontal — టేబుల్ అవతల నుంచి, సోఫాలో కూర్చుని ఫోన్ తీసుకుంటున్న ఆధ్య | Static | ఆధ్య దబ్బున సోఫాలో కూర్చుని, ఎదురుగా table మీద ఉన్న స్నేహ phone తీసుకుంటుంది | Tripod |
+| 3H | 3 | MS | Eye-level | Front 3/4 Left — గది అవతల నుంచి స్నేహ, ఆధ్య వైపు చూస్తూ (ఆధ్య ఫ్రేమ్ వెలుపల) | Static | స్నేహ: "ఆధ్యా. ఇప్పుడే school నుంచి వచ్చావు కదా. ముందు ఆ socks, మురికి బట్టలు తీసేసి స్నానం చేసి రా." | Tripod |
+| 3I | 3 | CU | Eye-level | Front 3/4 Right — ఆధ్య, తల కిందికి ఫోన్ వైపు; స్నేహ వైపు చూడదు | Static | ఆధ్యకి అమ్మ మాటలు వినిపించుకోదు; ఫోన్ వైపే చూస్తుంది | Tripod |
+| 3J | 3 | INSERT | High Angle (భుజం మీదుగా) | OTS (ఆధ్య భుజం మీదుగా) — ఫోన్ స్క్రీన్ మీద | Static | ఫోన్ స్క్రీన్: వాట్సాప్ తెరిచి "DAD" కి video call | Tripod; లైవ్ స్క్రీన్ షూట్ చేయాలి, బ్యాకప్‌గా స్క్రీన్ రీప్లేస్‌మెంట్ ప్లాన్ చేయాలి |
+| 3K | 3 | INSERT | Straight-on | Straight-on — ఫోన్ స్క్రీన్ ఫుల్ ఫ్రేమ్ (వీడియో కాల్ ప్లేట్) | Static | ఫోన్ స్క్రీన్: safety helmet, goggles పెట్టుకున్న కార్తీక్, వెనకాల steel plant raw material yard | ప్లాంట్‌లో ముందే షూట్ చేసిన వీడియో కాల్ ప్లేట్ (కార్తీక్ వైపు) |
+| 3L | 3 | CU | Eye-level | Frontal — ఫోన్ వెనక నుంచి, స్క్రీన్ వెలుగులో ఆధ్య ముఖం | Static | ఆధ్య ముఖం వెలిగిపోతుంది: "డాడీ, ఈ రోజు స్కూల్ అయిపోయింది!" / KARTHIK (ON PHONE): "సూపర్. ఈ రోజు స్కూల్ ఎలా ఉంది?" / "బాగుంది. హోంవర్క్ లేకపోతే ఇంకా సూపర్‌గా ఉండేది." | Tripod; ఫోన్ వెలుగే key light |
+| 3M | 3 | INSERT | Straight-on | Straight-on — ఫోన్ స్క్రీన్ ఫుల్ ఫ్రేమ్, కార్తీక్ నవ్వు | Static | ఫోన్ స్క్రీన్: కార్తీక్ నవ్వుతాడు: "సరే రా బంగారం. నేను ఇంటికి వచ్చేలోపు హోంవర్క్ తొందరగా పూర్తి చేసేయ్. తర్వాత ఇద్దరం బయటికి వెళ్ళి ఆడుకుందాం." | Plate footage |
+| 3N | 3 | CU | Eye-level | Frontal — 3L సెటప్ అదే, ఆధ్య ముఖం | Static | ఆధ్య: "ఓకే, డాడీ!" | Tripod |
+| 3O | 3 | INSERT | High Angle | Top-down Insert — ఆధ్య చేతుల్లో ఫోన్, బొటనవేలు కాల్ కట్ | Static | ఆమె బొటనవేలు కాల్ కట్ చేస్తుంది | Tripod, macro |
+| 3P | 3 | WS | Eye-level | From Behind — ఆధ్య తల వెనక నుంచి (ముందు మసక), గది అవతల స్నేహ ఫ్రంటల్ | Static, rack focus | ముందున్న ఆధ్య నుంచి గదికి అవతలి వైపు ఇదంతా చూస్తున్న స్నేహకి rack. స్నేహ (తనలో తాను): "నీకు మీ అమ్మ కనిపించనే కనిపించదు." | Tripod, follow focus |
+| 3Q | 3 | MS | Eye-level | Front 3/4 Left — స్నేహ కిచెన్ వైపు వెళ్తుంది, ఖాళీ కిచెన్ గుమ్మం ఫ్రేమ్ | Static | స్నేహ కిచెన్‌లోకి వెళ్తుంది; ఖాళీ గుమ్మం మీద హోల్డ్ | Tripod |
+| 4A | 4 | WS | Eye-level | From Behind, follow — హాల్ నుంచి ఆధ్య వెనకే main door వైపు | Track | డింగ్-డాంగ్ (DING-DONG). ఆధ్య తలుపు దగ్గరికి పరిగెత్తి తలుపు తీస్తుంది | Steadicam |
+| 4B | 4 | MS | Eye-level | Frontal — హాల్ లోపలి నుంచి, తలుపులోంచి లోపలికి వస్తున్న కార్తీక్ (ఆధ్య OTS ఎత్తు) | Static | కార్తీక్ లోపలికి వస్తాడు | Tripod |
+| 4C | 4 | CU (చేతులు) | Eye-level | Profile Insert — చేతుల ఎత్తులో పక్క నుంచి, హెల్మెట్ చేతులు మారుతుంది | Static | ఆధ్య చిన్ని చేతులు కార్తీక్ చేతుల్లోంచి హెల్మెట్ అందుకుంటాయి | Tripod. HERO SETUP, 11C లో ఖాళీగా మళ్ళీ వాడాలి |
+| 4D | 4 | MCU | Eye-level | Frontal (low, ఆధ్య ఎత్తు) — హెల్మెట్ హత్తుకున్న ఆధ్య, వెనక కార్తీక్ కాళ్ళు | Static | ఆధ్య హెల్మెట్‌ని హత్తుకుంటుంది, గర్వంగా | Tripod |
+| 4E | 4 | WS | Eye-level | Through doorway — కిచెన్ గుమ్మం దగ్గర నుంచి స్నేహ హాల్‌లోకి, ఎదురుగా కార్తీక్-ఆధ్య | Static | స్నేహ కార్తీక్ కోసం గ్లాసుతో నీళ్ళు తీసుకుని కిచెన్ నుంచి వస్తుంది | Tripod |
+| 5A | 5 | WS | Eye-level | Frontal master — టేబుల్ చివర నుంచి, ఆధ్య మధ్యలో, అటు ఇటు కార్తీక్-స్నేహ | Static | డిన్నర్: కుటుంబం అంతా కలిసి, ప్రేమగా కబుర్లు చెప్పుకుంటూ; వెచ్చని ప్రాక్టికల్ లైట్ | Tripod, warm practicals |
+| 5B | 5 | MS | Eye-level | Front 3/4 Left — స్నేహ వైపు నుంచి, కార్తీక్ ఆధ్యకి తినిపిస్తూ (ఆధ్య ప్రొఫైల్) | Static | కార్తీక్ తన ప్లేట్ నుంచి ఆధ్యకి ముద్ద తినిపిస్తాడు | Tripod |
+| 5C | 5 | MS | Eye-level | Front 3/4 Right — కార్తీక్ వైపు నుంచి, స్నేహ ఆధ్యకి తినిపిస్తూ (5B reverse) | Static | వంతులవారీగా, స్నేహ తన ప్లేట్ నుంచి ఆధ్యకి ముద్ద తినిపిస్తుంది | Tripod |
+| 5D | 5 | CU | Eye-level | Frontal — ఆధ్య ఎదురుగా, వెనక ఇద్దరు తల్లిదండ్రులు మసకగా | Static | నోటి నిండా బుగ్గలతో ఆధ్య నవ్వుతోంది; వెనక తల్లిదండ్రులు మసకగా | Tripod, shallow focus |
+| 6A | 6 | WS | Overhead | Top-down (Overhead) — మంచం పైన, ముగ్గురూ ఫ్రేమ్‌లో; కార్తీక్ ఎడమ, స్నేహ కుడి | Slow push in (descending) | లైట్లు డిమ్‌గా. bed మీద ఆధ్య కార్తీక్ వైపు తిరిగి, అతని భుజం మీద తల పెట్టి పడుకుంది; స్నేహ ఆధ్యకి మరో వైపు. ఆ రోజు విషయాలు మాట్లాడుకుంటూ ముగ్గురూ నిద్రలోకి జారుకుంటారు | Top-down rig or jib. HERO SETUP, 16A లో మళ్ళీ వాడాలి |
+| 7A | 7 | INSERT | Eye-level | POV — ఆధ్య, గోడ గడియారం (1F/1H ఫ్రేమింగ్ అదే) | Static | గడియారం 5:45 చూపిస్తుంది. KARTHIK (O.S.): "బై, స్నేహా." | Tripod; 1H కి మ్యాచ్ |
+| 7B | 7 | CU | Eye-level (దిండు ఎత్తు) | Frontal — 1E సెటప్ అదే, గడియారం గోడ వైపు నుంచి ఆధ్య ముఖం | Static | సగం నిద్రలో ఉన్న ఆధ్య ఉలిక్కిపడి లేస్తుంది, ఆందోళనగా | Tripod |
+| 7C | 7 | WS | Eye-level | Side-on — 1J వైడ్ పొజిషన్ (గది మూల), ఆధ్య మంచం దిగి గుమ్మం వైపు | Static | క్షణంలో మంచం దిగేస్తుంది | Tripod |
+| 8A | 8 | OTS | Eye-level (ఆధ్య ఎత్తు) | OTS (ఆధ్య భుజం మీదుగా) on కార్తీక్ — 2B సెటప్ అదే, main door ద్వారా | Static | 2B రిపీట్, నిన్నటిలాగే: తలుపు దగ్గర బయటకి వెళ్తూ, హెల్మెట్ పెట్టుకుని కార్తీక్; ఫోకస్ హెల్మెట్ మీద | Tripod; 2B lens, ఎత్తుకి మ్యాచ్ చేయాలి |
+| 8B | 8 | CU | Eye-level | Frontal — 2D సెటప్ అదే, main door వైపు నుంచి ఆధ్య ముఖం | Static | ఆధ్య ఊపిరి పీల్చుకుంటుంది; ప్రశాంతంగా మారి, ఒక చిన్న నవ్వు | Tripod |
+| 8C | 8 | MS | Eye-level | Back 3/4 — ఆధ్య తిరిగి బెడ్‌రూమ్ వైపు వెళ్తుంది, కెమెరా door వైపే | Static | వెనక్కి తిరిగి మళ్ళీ పడుకోవడానికి వెళ్తుంది | Tripod |
+| 9A | 9 | INSERT | Eye-level | Frontal, straight-on — 3A అదే, గోడ గడియారం ఎదురుగా | Static | గడియారం 3:30 చూపిస్తుంది | Tripod; 3A కి మ్యాచ్ |
+| 9B | 9 | WS | Eye-level | Frontal — 3C సెటప్ అదే, సోఫా వెనక నుంచి main door వైపు | Static | 3C రిపీట్: ఆధ్య ఎప్పటిలా school నుంచి ఆడుతూ పాడుతూ లోపలికి వస్తుంది | Tripod; 3C కి మ్యాచ్ |
+| 9C | 9 | CU | Floor level | Ground-level, Side-on — 3E సెటప్ అదే, నేల మీద | Static | బ్యాగ్, లంచ్ బాక్స్, shoes అన్నీ నేల మీద పడతాయి | Ground plate |
+| 9D | 9 | MS | Eye-level | Frontal — 3G సెటప్ అదే, టేబుల్ అవతల నుంచి సోఫాలో ఆధ్య | Static | ఆధ్య సోఫా మీద కూర్చుంటుంది. స్నేహ: "ఆధ్యా. ముందు వెళ్ళి స్నానం చేసిరా." | Tripod |
+| 9E | 9 | CU | Eye-level | Front 3/4 Right — 3I సెటప్ అదే, ఆధ్య ఫోన్ వైపు | Static | అమ్మని పట్టించుకోదు; ఎప్పటిలాగే ఫోన్ తీసుకుని డాడీకి వీడియో కాల్ చేస్తుంది | Tripod |
+| 9F | 9 | MS | Eye-level | Front 3/4 Left — 3H సెటప్ అదే, గది అవతల స్నేహ నవ్వుతూ | Static | స్నేహ నవ్వుతూ చూస్తుంది: "ఈ తండ్రీ కూతుళ్లకి ఒకరంటే ఒకరికి ఎంత ప్రేమో" | Tripod |
+| 9G | 9 | INSERT | High Angle | OTS (ఆధ్య భుజం మీదుగా) — ఫోన్ స్క్రీన్, 3J అదే | Static | ఫోన్ స్క్రీన్: కాల్ కనెక్ట్ అవుతుంది | Tripod; స్క్రీన్ రీప్లేస్‌మెంట్ బ్యాకప్ |
+| 9H | 9 | ECU | Eye-level | Frontal — ఫోన్ వెనక నుంచి ఆధ్య కళ్ళ మీదకి నేరుగా పుష్ ఇన్ | Slow push in | "హాయ్, డాడీ!" ఆధ్య ముఖం ఒక్కసారిగా షాక్‌తో మారిపోతుంది, స్క్రీన్ వైపే చూస్తూ రాయిలా బిగుసుకుపోతుంది; ఫోకస్ కళ్ళ మీద లాక్, బ్యాక్‌గ్రౌండ్ బ్లర్ | Dolly or slider, fast prime |
+| 9I | 9 | CU | Eye-level | Frontal, dead-centre — ఆధ్య కళ్ళు లెన్స్‌కి దగ్గరగా, కదలని ఫ్రేమ్ | Static (locked off) | ఆధ్య సమాధానం చెప్పదు, కదలదు; కళ్ళలో పూర్తిగా భయం. KARTHIK (ON PHONE): "హాయ్ బంగారం! స్కూల్ ఎలా ఉంది? ఈ రోజు ఎలా గడిచింది?" | Tripod, locked off |
+| 9J | 9 | MS | Eye-level | From Behind — ఆధ్య తల వెనక (ముందు మసక), వెనక స్నేహ ఫ్రంటల్; 3P మ్యాచ్ | Static, rack focus | ముందున్న ఆధ్య నుంచి స్నేహకి rack; ఆమె నవ్వు మాయమవుతుంది, ఏదో తేడాగా ఉంది | Tripod, follow focus |
+| 9K | 9 | MS | Eye-level | Front 3/4 Left — స్నేహ ఆధ్య దగ్గరికి వచ్చి ఫోన్ తీసుకుంటుంది, ఆధ్య ఫ్రేమ్ కుడి | Track | స్నేహ దగ్గరికి వచ్చి ఆధ్య చేతిలోంచి ఫోన్ తీసుకుంటుంది | Steadicam |
+| 9L | 9 | INSERT | Over-the-shoulder (స్నేహ POV) | OTS (స్నేహ భుజం మీదుగా) / POV — ఫోన్ స్క్రీన్ మీద పుష్ ఇన్ | Slow push in | ఫోన్ స్క్రీన్: ఓపెన్ raw material yardలో హెల్మెట్ లేకుండా కార్తీక్; వెనకాల కొద్ది దూరంలో ఒక భారీ మెషిన్ నుంచి పెద్ద పెద్ద బండరాళ్ళు దొర్లి నేల మీద పడుతున్నాయి; మెషిన్ గర్జన (ROAR), ప్రతి రాయి ఢాం (THUD) | Slider. రా మెటీరియల్ యార్డ్‌లో ముందే షూట్ చేసిన ప్లేట్ (stacker/reclaimer or excavator) |
+| 9M | 9 | MCU | Eye-level | Front 3/4 Left — స్నేహ ఫోన్ వైపు చూస్తూ, ఆధ్య వెళ్ళే దిక్కు ఫ్రేమ్ కుడి | Static | స్నేహ: "నీ వెనకాల ఉన్న ఆ పెద్ద మెషిన్‌ని చూసి భయపడిందనుకుంటా. నువ్వేం టెన్షన్ పడకు. నేను దానికి అర్థమయ్యేలా చెప్తాలే." | Tripod |
+| 9N | 9 | INSERT | Straight-on | Straight-on — ఫోన్ స్క్రీన్ ఫుల్ ఫ్రేమ్, కాల్ కట్ | Static | ఫోన్ స్క్రీన్: కార్తీక్ తల ఊపి కాల్ కట్ చేస్తాడు | Plate footage |
+| 9O | 9 | WS | Eye-level | Front 3/4 on స్నేహ (ముందు), వెనక From Behind ఆధ్య బెడ్‌రూమ్ గుమ్మం వైపు | Static | ఫోన్‌తో స్నేహ (ముందు); డీప్ ఫోకస్, ఆధ్య అప్పటికే బెడ్‌రూమ్ వైపు నడుస్తూ వెళ్ళిపోతోంది | Tripod, stopped down |
+| 10A | 10 | WS | Overhead | Top-down — మంచం పైన, ఆధ్య ముఖం నేరుగా సీలింగ్ వైపు (కెమెరా వైపు) | Static | ఆధ్య మంచం మీద పడుకుని, ఆలోచనల్లో మునిగిపోయి, bedroom ceiling వైపే చూస్తోంది | Top-down rig |
+| 10B | 10 | WS | Eye-level | Through doorway — మంచం తల వైపు నుంచి, గుమ్మంలో ఫ్రేమ్ అయిన స్నేహ | Static | స్నేహ లోపలికి వస్తుంది: "అబ్బా, ఆధ్యా. ఇప్పుడే స్కూల్ నుంచి వచ్చావు. స్నానం చేసి రా. snacks పెడతా." | Tripod |
+| 10C | 10 | CU | Overhead | Top-down — ఆధ్య ముఖం మీద నేరుగా పై నుంచి, ఖాళీ చూపు | Static | ఆధ్య. ఎలాంటి స్పందనా లేదు | Top-down rig |
+| 10D | 10 | MS | Eye-level | Side-on Two-Shot — మంచం పక్క నుంచి, స్నేహ కూర్చుని ఆధ్య చేతి మీద చేయి | Static | స్నేహ ఆమె పక్కన కూర్చుని, ఆమె చేతి మీద చేయి వేస్తుంది | Tripod |
+| 10E | 10 | INSERT | High Angle | Top-down Insert — రెండు చేతుల మీద, స్నేహ చెయ్యి ఆధ్య చేతి మీద | Static | చేతుల మీద: ఆధ్య చెయ్యి చాలా వేడిగా ఉంది | Tripod |
+| 10F | 10 | CU | Eye-level | Front 3/4 Right — మంచం అవతల వైపు నుంచి స్నేహ ముఖం, ముందు ఆధ్య నుదురు | Static | స్నేహ చేతి వెనక భాగాన్ని ఆధ్య మెడకి, తర్వాత నుదుటికి ఆనిస్తుంది: "అయ్యో, బంగారం. నీకు జ్వరం వచ్చింది. కానీ ఏం భయపడకు. నిన్ను చూసుకోవడానికి అమ్మ ఉంది కదా. ఈ జ్వరాన్ని నేను తరిమేస్తాను." | Tripod |
+| 10G | 10 | INSERT | High Angle | Top-down Insert — ఆధ్య చంక దగ్గర థర్మామీటర్ | Static | ఆధ్య చంకలో థర్మామీటర్ పెడుతుంది | Tripod |
+| 10H | 10 | WS | Eye-level | Side-on, pan — గది మూల నుంచి, స్నేహ గుమ్మం దాటి వెళ్ళి తిరిగి వస్తుంది | Pan | స్నేహ బయటికి వెళ్ళి, శుభ్రమైన టవల్, గిన్నెలో నీళ్ళు తీసుకుని తిరిగి వస్తుంది | Tripod, fluid head |
+| 10I | 10 | ECU | High Angle | Insert, OTS (స్నేహ భుజం మీదుగా) — థర్మామీటర్ డిస్‌ప్లే 102°F | Static | థర్మామీటర్ 102°F చూపిస్తుంది | Tripod, macro; డిస్‌ప్లే చదవగలిగే ప్రాక్టికల్ ప్రాప్ |
+| 10J | 10 | CU | Eye-level | Front 3/4 Right — 10F సెటప్ అదే, స్నేహ ముఖం థర్మామీటర్ వైపు చూస్తూ | Static | స్నేహ ఊపిరి ఒక్క క్షణం ఆగిపోతుంది; తనను తాను సంభాళించుకుంటుంది | Tripod |
+| 10K | 10 | MS | High Angle | Side-on — మంచం పక్క నుంచి, స్నేహ సిరప్ పోసి తుడుస్తుంది, ఆధ్య పడుకుని | Static | చెంచాతో ఆధ్య నోట్లో సిరప్ పోసి, తడి గుడ్డతో ఒళ్ళు తుడవడం మొదలుపెడుతుంది | Tripod |
+| 10L | 10 | CU | Overhead | Top-down — ఆధ్య ముఖం పైనుంచి, ముందు స్నేహ చెయ్యి/టవల్ మసకగా | Static | ఆధ్య కళ్ళు సీలింగ్ మీద నుంచి కదలవు; ముందు స్నేహ చెయ్యి, టవల్ మసకగా. స్నేహ: "ఎక్కడైనా నొప్పిగా ఉందా?" | Top-down rig, shallow focus |
+| 10M | 10 | CU | Overhead | Top-down — 10L అదే, ఆధ్య కనురెప్ప కూడా కదలదు | Static | స్పందన లేదు, కనురెప్ప కూడా కదల్చదు | Top-down rig |
+| 10N | 10 | CU | Eye-level | Front 3/4 Right — 10F సెటప్ అదే, స్నేహ ముఖంలో భయం | Static | స్నేహ: "చలిగా ఉందా?" ఆధ్య ఉలకదు, పలకదు; స్నేహ ముఖంలో కొంచెం భయం, ఒళ్ళు తుడుస్తూనే ఉంటుంది | Tripod |
+| 10O | 10 | WS | Eye-level | Wide, Side-on — 10H పొజిషన్, కిటికీ వెలుగు మారింది, స్నేహ గుమ్మం వైపు | Static | టైమ్ కట్: కిటికీ వెలుగు మారిపోయింది. డింగ్-డాంగ్ (DING-DONG). స్నేహ: "డాడీ వచ్చినట్టున్నారు." టవల్ పక్కన పెట్టి వెళ్తుంది | Tripod; టైమ్ షిఫ్ట్ కోసం relight |
+| 10P | 10 | CU | Eye-level (దిండు ఎత్తు) | Profile to Frontal — దిండు ఎత్తులో, ఆధ్య తల కెమెరా (గుమ్మం) వైపు తిప్పుతుంది | Static | మొదటిసారి, ఆధ్య తల అమ్మ వైపు తిప్పుతుంది | Tripod |
+| 10Q | 10 | WS | Eye-level (దిండు ఎత్తు) | POV — ఆధ్య, దిండు ఎత్తు నుంచి గుమ్మం వైపు స్నేహని అనుసరిస్తూ | Pan | ఆధ్య POV: అమ్మ bedroom తలుపు దాటి బయటకి వెళ్ళేవరకు కెమెరా అనుసరిస్తుంది | Tripod, fluid head |
+| 10R | 10 | CU | Eye-level | Back 3/4 — ఆధ్య తల వెనక పక్క నుంచి, ఫోకస్ ఖాళీ గుమ్మం మీదకి | Static, focus pull | అమ్మ వెళ్ళాక కూడా ఆధ్య గుమ్మం వైపే చూస్తూ ఉంటుంది; ఫోకస్ ఆమెను దాటి ఖాళీ గుమ్మం మీదకి వెళ్ళి ఆగుతుంది | Tripod, follow focus |
+| 11A | 11 | MS | Eye-level | Side-on Two-Shot — హాల్ లోపల main door పక్క నుంచి, స్నేహ తలుపు తీయగా కార్తీక్ | Static | స్నేహ main door తీస్తుంది; కార్తీక్ హెల్మెట్ తీస్తూ లోపలికి వస్తాడు | Tripod |
+| 11B | 11 | CU | Eye-level | Frontal — హాల్ లోపలి నుంచి కార్తీక్ ముఖం, కళ్ళు గదంతా వెతుకుతూ | Static | అలవాటుగా, హెల్మెట్ అందుకునే ఆధ్య కోసం కార్తీక్ కళ్ళు గదంతా వెతుకుతాయి | Tripod |
+| 11C | 11 | CU (చేతులు) | Eye-level | Profile Insert — 4C సెటప్ అదే, ఖాళీ ఫ్రేమ్, కార్తీక్ చేతులు మాత్రమే | Static | 4C రిపీట్: ఏ చిన్ని చేతులూ ఫ్రేమ్‌లోకి రావు; హెల్మెట్‌ని తనే పక్కన పెడతాడు | Tripod; 4C కి సరిగ్గా మ్యాచ్ చేయాలి |
+| 11D | 11 | MS 2-shot | Eye-level | Two-Shot, Profile — కార్తీక్ ఫ్రేమ్ ఎడమ, స్నేహ కుడి (2F యాక్సిస్ అదే) | Static | కార్తీక్: "ఆధ్య ఎక్కడ?" / స్నేహ: "దానికి జ్వరం వచ్చింది. బెడ్‌రూమ్‌లో పడుకుని rest తీసుకుంటోంది." | Tripod |
+| 11E | 11 | WS | Eye-level | From Behind, follow — కార్తీక్ వెనకే బెడ్‌రూమ్ గుమ్మం వైపు | Handheld follow | కార్తీక్ నేరుగా బెడ్‌రూమ్ వైపు వెళ్తాడు | Handheld |
+| 12A | 12 | CU | Eye-level | Back 3/4 — 10R సెటప్ అదే, ఆధ్య తల వెనక పక్క నుంచి గుమ్మం వైపు | Static | ఆధ్య కళ్ళు ఇంకా bedroom door వైపే | Tripod |
+| 12B | 12 | MS | Eye-level | POV — ఆధ్య, మంచం మీద నుంచి గుమ్మంలో కార్తీక్ | Static, focus snap | ఆధ్య POV: గుమ్మంలో కార్తీక్ కనిపిస్తాడు | Tripod, follow focus |
+| 12C | 12 | WS | Eye-level | Side-on — గది మూల నుంచి, ఆధ్య మంచం దిగి గుమ్మం దగ్గర కార్తీక్ చేతుల్లోకి | Static | నాన్నని చూడగానే ఆధ్య మంచం మీద నుంచి దూకి అతని చేతుల్లోకి వాలిపోతుంది | Tripod |
+| 12D | 12 | CU | Eye-level | Front 3/4 Left — కార్తీక్ ముఖం, ఆధ్య తల అతని భుజం మీద | Static | కార్తీక్ హత్తుకుంటాడు, ఒంట్లోంచి వేడి తెలుస్తుంది: "ఒళ్ళు కాలిపోతోంది రా బంగారం. డాక్టర్ దగ్గరికి వెళ్దాం పద." | Tripod |
+| 12E | 12 | OTS | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on స్నేహ — గుమ్మంలో స్నేహ తల ఊపుతుంది | Static | కార్తీక్ మీదుగా: గుమ్మంలో నిలబడ్డ స్నేహ తల ఊపుతుంది | Tripod |
+| 12F | 12 | MS | Eye-level | Front 3/4 Left — కార్తీక్ ఆధ్యని ఎత్తుకుంటాడు, వెనక గుమ్మంలో స్నేహ | Static | కార్తీక్ ఆధ్యని ఎత్తుకుంటాడు | Tripod |
+| 13A | 13 | WS | Eye-level | Front 3/4 Right — వీధి అవతల నుంచి, ఇల్లు-కారు ఫ్రేమ్‌లో, ముగ్గురూ ఎక్కుతూ | Static | ముగ్గురూ కారు ఎక్కుతారు | Tripod |
+| 13B | 13 | WS | High Angle | From Behind (High) — ఇంటి పై నుంచి/మేడ మీద నుంచి, కారు వెనక టెయిల్‌లైట్లు దూరమవుతూ | Static | కారు హాస్పిటల్ వైపు బయల్దేరుతుంది; టెయిల్‌లైట్లు దూరమయ్యే దాకా హోల్డ్ | Tripod on height, or jib |
+| 14A | 14 | WS | Eye-level | Side-on master — సైడ్ వాల్ నుంచి, ఎడమ డాక్టర్+ఆధ్య, కుడి కార్తీక్-స్నేహ, మధ్యలో టేబుల్ | Static | డాక్టర్ గది, రాత్రి: డాక్టర్ పక్కన stool మీద ఆధ్య; టేబుల్‌కి అవతల కార్తీక్, స్నేహ పక్కపక్కనే | Tripod. HERO SETUP, 22A లో మళ్ళీ వాడాలి |
+| 14B | 14 | CU | Eye-level | Side-on Insert — ఆధ్య పక్క నుంచి, ఛాతీ మీద stethoscope | Static | ఆధ్య ఛాతీ మీద stethoscope | Tripod |
+| 14C | 14 | MS | Eye-level | OTS (డాక్టర్ భుజం మీదుగా) on ఆధ్య — కళ్ళు, నాలుక చెక్ చేస్తుంటే | Static | డాక్టర్ ఆమె కళ్ళు, నాలుక చెక్ చేస్తాడు | Tripod |
+| 14D | 14 | MS | Eye-level | OTS (డాక్టర్ భుజం మీదుగా) on కార్తీక్ — టేబుల్ అవతల, స్నేహ పక్కన | Static | కార్తీక్: "నేను ఇంటికి వచ్చేసరికి తనకి జ్వరం చాలా ఎక్కువ ఉంది doctor. ఒళ్ళు కాలిపోతుంది. మీ దగ్గరకి వచ్చే తగ్గిపోయింది." | Tripod |
+| 14E | 14 | MS | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on డాక్టర్ — 14D reverse | Static | డాక్టర్ కార్తీక్ వైపు తిరుగుతాడు: "మధ్యాహ్నం మీరు పాపకి medicine ఇచ్చాము అని చెప్పారు కదా. అందుకే టెంపరేచర్ తగ్గింది. మళ్ళీ జ్వరం వస్తే, ఇవి ఇవ్వండి." | Tripod |
+| 14F | 14 | INSERT | High Angle | Top-down Insert — టేబుల్ మీద ప్రిస్క్రిప్షన్ ప్యాడ్, డాక్టర్ చెయ్యి | Static | ప్రిస్క్రిప్షన్ రాస్తున్నాడు. DOCTOR (CONT'D): "అలాగే ఎందుకైనా మంచిది, ముందు జాగ్రత్తగా, కొన్ని బ్లడ్ టెస్ట్‌లు కూడా రాస్తున్నాను." | Tripod |
+| 14G | 14 | MS | Eye-level | Side-on Two-Shot — టేబుల్ పక్క నుంచి, డాక్టర్ నుంచి కార్తీక్‌కి పేపర్ | Static | ప్రిస్క్రిప్షన్ చింపి కార్తీక్ చేతికి ఇస్తాడు. కార్తీక్: "థ్యాంక్యూ, డాక్టర్." | Tripod |
+| 14H | 14 | WS | Eye-level | 14A పొజిషన్ — కార్తీక్, స్నేహ లేచి గుమ్మం వైపు, ఆధ్య వెనకే | Static | కార్తీక్, స్నేహ లేచి బయల్దేరతారు; ఆధ్య గెంతుకుంటూ వెనకాలే వెళ్తుంది | Tripod |
+| 15A | 15 | CU | High Angle | High 3/4 Insert — టేబుల్ పక్క నుంచి ఇడ్లీ ప్లేట్, వెనక నుంచి ఆవిరి backlit | Static | స్నేహ ఆవిర్లు కక్కుతున్న ఇడ్లీల ప్లేట్ dining table మీద పెడుతుంది | Tripod, ఆవిరి కోసం backlight |
+| 15B | 15 | WS | Eye-level | Frontal master — 5A సెటప్ అదే, టేబుల్ చివర నుంచి ముగ్గురూ | Static | family అంతా నవ్వుతూ మాట్లాడుకుంటూ తింటుంటారు | Tripod |
+| 15C | 15 | MS | Eye-level | Front 3/4 Left — 5B సెటప్ అదే, కార్తీక్ ఆధ్యకి తినిపిస్తూ | Static | కార్తీక్ ప్రేమగా ఆధ్యకి తినిపిస్తాడు; ఆధ్య మళ్ళీ మామూలుగా అయిపోయింది | Tripod |
+| 16A | 16 | WS | Overhead | Top-down (Overhead) — 6A సెటప్ అదే, మంచం పైన ముగ్గురూ | Static | 6A రిపీట్: ముగ్గురూ కలిసి నిద్రపోతున్నారు | Top-down rig; 6A కి మ్యాచ్ |
+| 17A | 17 | CU | Eye-level (దిండు ఎత్తు) | Frontal — 1E/7B సెటప్ అదే (దిండు ఎత్తు), వెనక కిటికీలో పగటి వెలుగు | Static | ఆధ్య నిద్రపోతోంది, కిటికీలో ఉదయం వెలుగు. KARTHIK (O.S.): "బై, స్నేహా!" | Tripod |
+| 17B | 17 | WS | Eye-level | Side-on — 1J/7C వైడ్ పొజిషన్, ఆధ్య మంచం దిగి గుమ్మం వైపు పరిగెత్తుతుంది | Static | ఆధ్య మంచం మీద నుంచి కంగారుగా దిగి, hall లోకి పరిగెడుతుంది | Tripod |
+| 18A | 18 | WS | Eye-level | Wide, Side-on — హాల్ మూల నుంచి, main door దగ్గర కార్తీక్, బెడ్‌రూమ్ నుంచి ఆధ్య | Static | ఆ రోజు లేట్ అయిన కార్తీక్ ఇంకా ఇంట్లోనే, main door దగ్గర గబగబా shoes వేసుకుంటున్నాడు; hall లోకి ఆధ్య వస్తుంది | Tripod |
+| 18B | 18 | CU | Eye-level | Side-on Insert — చేతుల ఎత్తులో, స్నేహ చేతిలోంచి బ్యాగ్ లాక్కుంటాడు | Static | కార్తీక్ స్నేహ చేతిలోంచి బ్యాగ్ లాక్కుంటాడు | Tripod |
+| 18C | 18 | MS | Eye-level | Front 3/4 to From Behind — కార్తీక్ తలుపు దాటి బయటికి, హెల్మెట్ లేని తల | Pan | గబగబా బయటికి వెళ్ళిపోతాడు; తలకి helmet లేదు | Tripod, fluid head |
+| 18D | 18 | OTS | Eye-level (ఆధ్య ఎత్తు) | OTS (ఆధ్య భుజం మీదుగా) on కార్తీక్ — 2B సెటప్ అదే, main door ద్వారా | Static | 2B రిపీట్: hall నుంచి చూస్తున్న ఆధ్యని అతను గమనించడు; హెల్మెట్ లేని తల | Tripod; 2B కి మ్యాచ్ |
+| 18E | 18 | CU | Eye-level | Frontal, dead-centre — 9I మ్యాచ్, main door వైపు నుంచి ఆధ్య ముఖం | Static (locked off) | ఆధ్య బిగుసుకుపోతుంది, రాయిలా గడ్డకట్టుకుపోతుంది; ఫోకస్ లాక్, హాల్ మసకబారుతుంది | Tripod, fast prime |
+| 18F | 18 | MS | Eye-level | Front 3/4 Left on స్నేహ — door దగ్గర తిరుగుతూ, ఫ్రేమ్ కుడిలో ఆధ్య (మసక) | Static | స్నేహ తలుపు వేసి, వెనక్కి తిరిగి, భయంతో తలుపు వైపే చూస్తున్న ఆధ్యని చూస్తుంది: "డాడీకి ఈ రోజు లేట్ అయింది రా, అందుకే కంగారుగా వెళ్ళిపోయారు. పద వెళ్ళి పడుకుందాం." | Tripod |
+| 18G | 18 | CU | Eye-level | Frontal — 18E సెటప్ అదే, ఆధ్య స్పందన లేదు | Static | ఆధ్య దగ్గర స్పందన లేదు | Tripod |
+| 18H | 18 | INSERT | Eye-level | Side-on Insert — చేతుల ఎత్తులో, స్నేహ చెయ్యి ఆధ్య చేతిని పట్టుకుంటుంది | Static | స్నేహ ఆమె చేయి పట్టుకుంటుంది: వేడిగా ఉంది, జ్వరం మళ్ళీ వచ్చింది | Tripod |
+| 18I | 18 | MS | Eye-level | Frontal — సోఫా ఎదురుగా, స్నేహ ఆధ్యని కూర్చోబెట్టి medicine ఇస్తుంది | Static | కంగారుగా స్నేహ ఆమెను సోఫా దగ్గరికి తీసుకెళ్ళి, కూర్చోబెట్టి, medicine ఇస్తుంది | Tripod |
+| 18J | 18 | CU | Eye-level | Frontal (OTS స్నేహ, ముందు మసక) — main door వైపు నుంచి ఆధ్య కళ్ళు | Static | ఆధ్య కళ్ళు ఇంకా main door వైపే; ముందు స్నేహ మసకగా | Tripod, shallow focus |
+| 18K | 18 | MCU | Eye-level | Front 3/4 Left — స్నేహ ఫోన్ పట్టుకుని కాల్, ఫ్రేమ్ కుడిలో ఆధ్య సోఫాలో | Static | ఏమైందో అర్థంకాక, భయపడుతూ స్నేహ ఫోన్ తీసుకుని కార్తీక్‌కి కాల్ చేస్తుంది | Tripod |
+| 19A | 19 | WS | Eye-level | Side-on Tracking — రోడ్డు పక్క నుంచి (బైక్ కుడి వైపు), కార్తీక్ హెల్మెట్ లేకుండా | Track | Morning traffic; కార్తీక్ హెల్మెట్ లేకుండా బైక్ నడుపుతున్నాడు | Tracking vehicle, gimbal, or car-mount arm |
+| 19B | 19 | CU | Eye-level | Front 3/4 Right — బైక్ మౌంట్, కార్తీక్ వాచ్ వైపు చూస్తూ | Track | కార్తీక్ watch వైపు చూసుకుంటాడు: లేట్ అయింది | Bike mount |
+| 19C | 19 | INSERT | Eye-level | Insert, Side-on — హ్యాండిల్ బార్ దగ్గర, కుడి చెయ్యి accelerator | Track | చెయ్యి accelerator raise చేస్తుంది; ఇంజన్ రయ్ (ENGINE REVS) మంటుంది, బైక్ స్పీడ్ పెరుగుతుంది | Bike mount |
+| 19D | 19 | INSERT | High Angle | Top-down Insert — బైక్ మీద నుంచి pant జేబు, ఫోన్ buzz | Track | pant జేబులో phone vibrate (BUZZES) అవుతుంది | Bike mount |
+| 19E | 19 | MS | Eye-level | Profile Right Tracking — అలాంగ్‌సైడ్, ఫోన్ వైపు కిందకి చూస్తున్న కార్తీక్ | Track | ఒక చేత్తో bike handle పట్టుకుని, phone బయటకు తీసి, ఎవరు call చేశారో చూడటానికి కిందకు screen వైపు చూస్తాడు | Tracking vehicle; closed road, stunt rider double |
+| 19F | 19 | WS | Low Angle | Low, Front 3/4 — రోడ్డు పక్క కిందుగా, కారు ముందుకి దూసుకొస్తూ బైక్‌ని దాటుతుంది | Static | ఒక కారు పెద్ద శబ్దంతో (ROARS), చాలా స్పీడ్‌గా, ప్రమాదకరంగా దగ్గరగా అతన్ని ఓవర్‌టేక్ చేసుకుంటూ దూసుకుపోతుంది | Tripod low; stunt coordinator; దూరం తక్కువగా కనిపించడానికి long lens |
+| 19G | 19 | CU | Eye-level | Frontal — బైక్ ముందు మౌంట్, కార్తీక్ ఉలిక్కిపడతాడు | Track | కార్తీక్ ఉలిక్కిపడతాడు | Bike mount |
+| 19H | 19 | INSERT | Eye-level | Insert, Side-on — హ్యాండిల్ దగ్గర, ఫోన్‌తో ఉన్న చెయ్యి గట్టిగా పట్టుకుంటుంది | Track | ఫోన్ ఇంకా చేతిలోనే ఉండగా bike handle గట్టిగా పట్టుకుంటాడు | Bike mount |
+| 19I | 19 | MS | Eye-level | Front 3/4 Right Tracking — ఛేజ్ వెహికల్ నుంచి, బైక్ ఊగుతుంటే | Track | బైక్‌ని కష్టంగా కంట్రోల్ చేస్తాడు | Tracking vehicle; stunt double |
+| 19J | 19 | CU | Eye-level | Frontal — రోడ్డు పక్క long lens, కార్తీక్ కళ్ళు, వెనక ట్రాఫిక్ గీతలు | Static | గుండె దడదడ కొట్టుకుంటుంది; ఫోకస్ కళ్ళ మీద, వెనక ట్రాఫిక్ గీతల్లా దూసుకుపోతోంది | Tripod, long lens |
+| 19K | 19 | WS | Eye-level | Wide, Front 3/4 Right — ఫుట్‌పాత్ వైపు నుంచి, బైక్ పక్కకి ఆగుతుంది | Static | bike మెల్లగా రోడ్డు పక్కకి ఆపి కాల్ ఎత్తుతాడు | Tripod |
+| 19L | 19 | MCU | Eye-level | Front 3/4 Right — ఫుట్‌పాత్ వైపు నుంచి, బైక్ మీద ఫోన్ చెవి దగ్గర కార్తీక్ | Static | SNEHA (ON PHONE): "కార్తీక్, ఆధ్యకి మళ్లీ జ్వరం వచ్చింది. ఎంత పిలిచినా ఏమి ఉలకట్లేదు పలకట్లేదు. అలా door వైపు చూస్తూనే ఉంది ఏం అర్థం కావట్లేదు." / కార్తీక్: "టెన్షన్ పడకు. నేను వెనక్కి తిరిగి ఇంటికి వస్తాను. ఏం కాదులే భయపడకు" | Tripod; స్నేహ వాయిస్ ఫోన్ ఫిల్టర్‌తో |
+| 19M | 19 | WS | Eye-level | Wide, Side-on pan — రోడ్డు అవతల నుంచి, U-టర్న్ తీసుకుని ఇంటి వైపు | Pan | ఫోన్ పెట్టేసి, bike స్టార్ట్ చేసి, U-టర్న్ తీసుకుని ఇంటి వైపుకి బయలుదేరుతాడు | Tripod, fluid head |
+| 20A | 20 | WS | Eye-level | Wide, Frontal — సోఫా ఎదురుగా, main door ఫ్రేమ్ ఎడమ; కార్తీక్ వచ్చి కూర్చుంటాడు | Static | కార్తీక్ ఇంటి లోపలికి వచ్చి, సోఫాలో ఉన్న ఆధ్య పక్కన కూర్చుంటాడు | Tripod |
+| 20B | 20 | MS 2-shot | Eye-level | Two-Shot, Front 3/4 — సోఫా ఎదురుగా కొంచెం కుడి, కార్తీక్ ఎడమ ఆధ్య కుడి | Static | కార్తీక్: "ఏమైంది రా బంగారం? అమ్మ ఏం అడిగినా మాట్లాడట్లేదంట.ఇంత పొద్దున్నే లేచావు. నీకు నిద్ర రావట్లేదా తల్లి?" | Tripod |
+| 20C | 20 | CU | Eye-level | Front 3/4 Left — కార్తీక్ వైపు నుంచి ఆధ్య, చూపు main door వైపు | Static | ఆధ్య ఏమీ మాట్లాడదు | Tripod |
+| 20D | 20 | MS | Eye-level | Frontal — సోఫా ఎదురుగా, కార్తీక్ ఒళ్ళో ఆధ్య తల | Static | కార్తీక్ ఒళ్ళో తల పెట్టుకుని పడుకుని నిద్రపోతుంది | Tripod |
+| 20E | 20 | WS | Eye-level | Wide, Side-on — హాల్ పక్క నుంచి, స్నేహ వచ్చి కార్తీక్ పక్కన కూర్చుంటుంది | Static | పక్క నుంచి చూస్తున్న స్నేహ వచ్చి కార్తీక్ పక్కన కూర్చుంటుంది | Tripod |
+| 20F | 20 | MS 3-shot | Eye-level | Three-Shot, Frontal — సోఫా ఎదురుగా; singles: స్నేహ/కార్తీక్ Front 3/4 ఒకరి వైపు ఒకరు | Static | స్నేహ: "పొద్దున నువ్వు వెళ్ళినప్పటి నుంచి ఆధ్య ఇలాగే ఉంది..." / కార్తీక్: "టెన్షన్ పడకు. ఏమీ ఉండదులే..." | Tripod. Coverage: స్నేహ, కార్తీక్ మీద singles |
+| 20G | 20 | MS 3-shot | Eye-level | Three-Shot, Frontal — 20F సెటప్ అదే, స్నేహ కార్తీక్ భుజం మీద | Static | ఇంకా ఆందోళనగానే, స్నేహ కార్తీక్ భుజం మీద తల వాలుస్తుంది; హోల్డ్ | Tripod, 21A కి dissolve కోసం locked off |
+| 21A | 21 | MS 3-shot | Eye-level | Three-Shot, Frontal — 20G సెటప్ అదే, ముగ్గురూ నిద్రలో | Static | అదే యాంగిల్, కాసేపటి తర్వాత: ఫ్యామిలీ అంతా సోఫాలోనే నిద్రపోతున్నారు | Tripod; 20G కి మ్యాచ్ |
+| 21B | 21 | CU | Eye-level | High 3/4 — కార్తీక్ భుజం మీదుగా కిందకి, ఒళ్ళో ఆధ్య ముఖం | Static | కార్తీక్ ఒళ్ళో ఆధ్యకి మెలకువ వస్తుంది; చిన్నగా నవ్వుతుంది | Tripod |
+| 21C | 21 | MS | Eye-level | Three-Shot, Frontal — సోఫా ఎదురుగా దగ్గరగా, ఆధ్య ఇద్దరినీ లేపుతుంది | Static | స్నేహని, కార్తీక్‌ని కుదిపి నిద్ర లేపుతుంది | Tripod |
+| 21D | 21 | CU | Eye-level | Front 3/4 Right — కార్తీక్ ముఖం ఆధ్య వైపు, ఫ్రేమ్‌లో అతని చెయ్యి ఆమె నుదుటి మీద | Static | కార్తీక్ ఆధ్య తల మీద చెయ్యి వేసి చూస్తాడు: "వావ్, జ్వరం తగ్గిపోయింది రా బంగారం! నీకు బానే అనిపిస్తుందా." | Tripod |
+| 21E | 21 | CU | Eye-level | Front 3/4 Left — కార్తీక్ వైపు నుంచి ఆధ్య, తల ఊపుతూ (21D reverse) | Static | ఆధ్య అంతా బానే ఉంది అన్నట్టు తల ఊపుతూ ఊ కొడుతుంది | Tripod |
+| 21F | 21 | MCU | Eye-level | Front 3/4 Right — 21D సెటప్ అదే, కార్తీక్ మాట్లాడుతూ | Static | కార్తీక్: "ఎందుకైనా మంచిది, ఇంకోసారి డాక్టర్ దగ్గరికి వెళ్దాం. నీ test reports వస్తాయి కదా .డాక్టర్‌కి ఒకసారి చూపిద్దాం నువ్వు వెళ్ళి రెడీ అవ్వు." | Tripod |
+| 21G | 21 | CU | Eye-level | Front 3/4 Left — 21E సెటప్ అదే, ఆధ్య బద్ధకంగా చూపు | Static | ఆధ్య బద్ధకంగా, ఏమాత్రం ఇంట్రెస్ట్ లేనట్టు ఒక చూపు చూస్తుంది | Tripod |
+| 21H | 21 | MCU | Eye-level | Front 3/4 Right — 21D సెటప్ అదే, కార్తీక్ bunk ఆఫర్ | Static | కార్తీక్: "ఈ రోజు స్కూల్‌కి bunk కొట్టేద్దాం. డాక్టర్ దగ్గరికి వెళ్ళొచ్చాక, ఇంట్లో రెస్ట్ తీసుకుని, సాయంత్రం పార్క్‌కి వెళ్దాం. సరేనా" | Tripod |
+| 21I | 21 | CU | Eye-level | Front 3/4 Left — 21E సెటప్ అదే, ఆధ్య పెద్ద నవ్వు | Static | ఆధ్య ముఖంపై ఒక్కసారిగా పెద్ద నవ్వు | Tripod |
+| 21J | 21 | WS | Eye-level | Wide, Frontal — 20A పొజిషన్, ఆధ్య లేచి bathroom వైపు ఫ్రేమ్ కుడికి | Static | కార్తీక్ మీద నుంచి లేచి ready అవ్వటానికి bathroom వైపు వెళ్తుంది | Tripod |
+| 22A | 22 | WS | Eye-level | 14A master అదే పొజిషన్ — టేబుల్ రెండు వైపులూ, పగటి వెలుగు | Static | 14A రిపీట్: డాక్టర్ గది, పగలు; ఆధ్య డాక్టర్ పక్కన, తల్లిదండ్రులు టేబుల్‌కి అవతల | Tripod; 14A కి మ్యాచ్ |
+| 22B | 22 | INSERT | High Angle | Top-down Insert — టేబుల్ మధ్యలో test reports, డాక్టర్ చేతులు | Static | వాళ్ళ మధ్యలో ఆధ్య test reports; డాక్టర్ చదువుతున్నాడు | Tripod |
+| 22C | 22 | MS | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on డాక్టర్ — 14E సెటప్ అదే | Static | డాక్టర్: "అంతా బాగానే ఉంది. కంగారు పడాల్సిందేమీ లేదు" | Tripod |
+| 22D | 22 | MS | Eye-level | OTS (డాక్టర్ భుజం మీదుగా) on స్నేహ — 14D యాక్సిస్, స్నేహ మీద ఫోకస్ | Static | స్నేహ: "కానీ డాక్టర్, దానికి ఉన్నట్టుండి జ్వరం వచ్చేస్తోంది. temperature ఒక్కసారిగా పెరిగిపోతుంది, బిగుసుకుపోతుంది, ఎవరితోనూ మాట్లాడదు. నాకేం అర్థం కావట్లేదు." | Tripod |
+| 22E | 22 | MS | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on డాక్టర్ — 22C అదే | Static | డాక్టర్: "ఇందులో భయపడాల్సిందేమీ లేదమ్మా. రిపోర్ట్స్ అన్నీ నార్మల్‌గా ఉన్నాయి. పాప ఏదన్నా చూసో, వినో బాగా భయపడినట్టుంది..." | Tripod |
+| 22F | 22 | MS | Eye-level | Front 3/4 — స్నేహ వైపు నుంచి, ముందు డాక్టర్, వెనక ఆధ్య కళ్ళు దించుకుని | Static, rack focus | డాక్టర్ నుంచి ఆధ్యకి rack, మౌనంగా, కళ్ళు కిందకి దించుకుని | Tripod, follow focus |
+| 22G | 22 | WS | Eye-level | 14A master పొజిషన్ — కార్తీక్, స్నేహ లేచి గుమ్మం వైపు, ఆధ్య వెనకే | Static | కార్తీక్: "సరే doctor..Thank you" కార్తీక్, స్నేహ లేచి బయల్దేరతారు; ఆధ్య వెనకాలే వెళ్తుంది | Tripod |
+| 23A | 23 | Various | Eye-level | Various — ముందు నుంచి/వెనక నుంచి/పక్క నుంచి, ఫ్యామిలీతో పాటు హ్యాండ్‌హెల్డ్ | Handheld | మాంటేజ్: ఫ్యామిలీ రోజంతా సిటీలో తిరుగుతుంది; ముగ్గురూ చాలా సంతోషంగా | Handheld, run-and-gun, natural light |
+| 24A | 24 | WS | Eye-level | Wide, Side-on — ప్లేగ్రౌండ్ అంచు నుంచి long lens, జారుడుబల్ల/ఉయ్యాల | Static | గోల్డెన్ అవర్. ఆధ్య సంతోషంగా జారుడుబల్లల మీద, ఉయ్యాలల మీద ఆడుకుంటోంది | Tripod, long lens |
+| 24B | 24 | MS 2-shot | Eye-level | From Behind Two-Shot — బెంచ్ వెనక నుంచి, ముందు కార్తీక్-స్నేహ, వెనక ఆధ్య | Static | బెంచ్ మీద కార్తీక్, స్నేహ (ముందు), ఆడుకుంటున్న ఆధ్య (వెనక); డీప్ ఫోకస్ | Tripod, stopped down |
+| 24C | 24 | MS | Eye-level | Frontal, leading — బెంచ్ వైపు వస్తున్న ఆధ్య ముందు, బెంచ్ దాకా ఫాలో | Track | ఆధ్య గెంతుకుంటూ వచ్చి, వాళ్ళ ఇద్దరి మధ్యలో దూరి కూర్చుని, కార్తీక్ భుజం మీద తల వాలుస్తుంది | Steadicam |
+| 24D | 24 | MS 3-shot | Eye-level | Three-Shot, Frontal — బెంచ్ ఎదురుగా; కార్తీక్ ఎడమ, ఆధ్య మధ్య, స్నేహ కుడి | Static | బెంచ్: "ఏరా తల్లీ, ఎలా ఉంది. బానే ఉన్నావా?" నుంచి "మాకు అర్థం కావట్లేదు." దాకా | Tripod. Scenes 24, 33, 36 కి MASTER |
+| 24E | 24 | MCU | Eye-level | Front 3/4 Left — కార్తీక్ ముఖం ఆధ్య (ఫ్రేమ్ కుడి) వైపు, బెంచ్ ఎదురుగా ఎడమ నుంచి | Static | కార్తీక్: "మరి నీకు జ్వరం ఎందుకు వచ్చింది రా? డాక్టర్ చెప్పినట్టు, నువ్వు ఏదైనా చూసి గానీ, విని గానీ భయపడ్డావా?" ఆధ్య తల ఊపుతుంది. "నిన్ను ఏం భయపెట్టిందో నాకు చెప్తావా?" | Tripod |
+| 24F | 24 | CU | Eye-level | Front 3/4 Right — ఆధ్య ముఖం కార్తీక్ వైపు, తల అతని భుజం దగ్గర (24E reverse) | Static | ఆధ్య (మామూలుగా): "నువ్వే డాడీ. నిన్ను చూసే నేను భయపడ్డాను." | Tripod |
+| 24G | 24 | CU | Eye-level | Front 3/4 Left — 24E సెటప్ అదే, కార్తీక్ మీద పుష్ ఇన్ | Slow push in | కార్తీక్ షాక్ అవుతాడు, అయోమయంలో పడతాడు | Slider |
+| 24H | 24 | CU | Eye-level | Front 3/4 Left — బెంచ్ కుడి ఎదురుగా, స్నేహ ముఖం ఆధ్య (ఫ్రేమ్ ఎడమ) వైపు | Static | స్నేహ (మామూలుగా అడుగుతున్నట్టు): "డాడీ నిన్ను ఎలా భయపెడతారు రా?" | Tripod |
+| 24I | 24 | MCU | Eye-level | Front 3/4 Left — ఆధ్య స్నేహ వైపు తిరుగుతుంది (24H reverse), వెనక కార్తీక్ మసక | Static | ఆధ్య స్నేహ వైపు తిరిగి: "డాడీ ఆఫీస్‌కి వెళ్తున్నప్పుడు డాడీని చూసి నేను భయపడ్డాను అమ్మ." / KARTHIK AND SNEHA: "మాకు అర్థం కావట్లేదు." | Tripod |
+| 24J | 24 | MS | Eye-level | Two-Shot, Front 3/4 — ఆధ్య, స్నేహ; ఆధ్య అమ్మకి దగ్గరగా జరుగుతుంది | Static | ఆధ్య కొంచెం అమ్మకి దగ్గరగా జరుగుతుంది: "ఒక రోజు, నేను స్కూల్ వ్యాన్‌లో స్కూల్‌కి వెళ్తున్నప్పుడు..." | Tripod |
+| 24K | 24 | CU | Eye-level | Frontal — బెంచ్ ఎదురుగా దగ్గరగా, ఆధ్య కళ్ళు, ఫోకస్ మెత్తబడుతుంది | Static, focus softens | ఆధ్య కళ్ళు జ్ఞాపకంలోకి జారుకుంటాయి; dissolve కోసం defocus | Tripod, follow focus |
+| 25A | 25 | WS | Eye-level | Front 3/4, roadside — రోడ్డు పక్క నుంచి, వ్యాన్ ఫ్రేమ్‌లోకి వచ్చి దాటుతుంది | Pan | school uniformలో ఉన్న పిల్లలతో నిండిన స్కూల్ వ్యాన్ వీధిలో వెళ్తోంది | Tripod, fluid head |
+| 25B | 25 | MS | Eye-level | Frontal, inside van — ముందు సీటు దగ్గర నుంచి వెనక్కి, పిల్లల మధ్యలో ఆధ్య | Static | వ్యాన్ లోపల: పిల్లలు కబుర్లు చెప్పుకుంటున్నారు, వాళ్ళ మధ్యలో ఆధ్య | Handheld or van-mounted, small camera |
+| 25C | 25 | WS | Eye-level | Wide from across street — ఎదురు వైపు నుంచి, ముందు వ్యాన్ వెనక రాజు ఇల్లు | Static | van ఒక ఇంటి ముందు ఆగుతుంది; వ్యాన్ డ్రైవర్ హారన్ కొడతాడు | Tripod |
+| 25D | 25 | MWS | Eye-level (వ్యాన్ కిటికీ) | POV ఆధ్య, Through van window — వ్యాన్ లోపల నుంచి, కిటికీ ఫ్రేమ్‌లో రాజు వరండా | Static | కిటికీలోంచి ఆధ్య POV, ఇంటి వైపు: ఇంటి వరండాలో కుర్చీలో రాజు (36) కూర్చుని ఉన్నాడు, దాదాపు ఆధ్య నాన్న వయసే | Shoot through van glass, polarizer |
+| 25E | 25 | MS | Eye-level | Frontal — వరండా గేట్ దగ్గర నుంచి, రాజు తల నుంచి కాలి కట్టు దాకా | Tilt down | రాజు తలకి, చేతికి, కాళ్ళకి బ్యాండేజీలు; ఒక చేతికి, ఒక కాలికి fracture కట్టు; విరిగిన చేయి స్లింగ్‌లో; కుర్చీకి ఆనించిన చేతికర్ర | Tripod, fluid head |
+| 25F | 25 | CU | Eye-level | Profile, inside van — పక్క సీటు నుంచి డ్రైవర్, హారన్ మీద చేయి | Static | van driver మళ్ళీ హారన్ కొడతాడు | Tripod, వ్యాన్‌లో |
+| 25G | 25 | WS | Eye-level | Frontal, from gate side — గేట్/వ్యాన్ వైపు నుంచి, తలుపులోంచి పరుగున పాప | Static | ఇంటి ముందు తలుపు దబ్బున తెరుచుకుంటుంది; school uniform లో 6 ఏళ్ళ పాప, భుజాల మీద బరువైన బ్యాగ్, కుడి చేతిలో లంచ్ బాక్స్‌తో బయటకు పరిగెత్తుకొస్తుంది | Tripod |
+| 25H | 25 | MS | Eye-level | Front 3/4, leading — పాప ముందు వెనక్కి నడుస్తూ, కాలు తగిలే క్షణం | Track | తలుపు నుండి గేట్ మధ్యలో సగం దూరం వచ్చేసరికి కాలు దేనికో తగులుతుంది | Gimbal |
+| 25I | 25 | MS | Floor level | Frontal, ground level — నేల మీద పాప ముఖానికి ఎదురుగా, బోర్లా పడుతుంది | Static | బోర్లా పడిపోయి, గట్టిగా ఏడ్చేస్తుంది | Ground plate; padded fall, child safety supervisor |
+| 25J | 25 | CU | Eye-level | Front 3/4 — కుర్చీ పక్క నుంచి రాజు, ఫోకస్ బయట పాప వైపు చూపు | Static | పాపని లేపటానికి రాజు కుర్చీలోంచి లేవటానికి ప్రయత్నిస్తాడు, లేవలేకపోతాడు | Tripod |
+| 25K | 25 | MS | Eye-level | Profile — వరండా పక్క నుంచి, ఫ్రేమ్‌లో రాజు లేస్తూ, దూరంగా ఏడుస్తున్న పాప | Static | ఎంతో కష్టంతో, నొప్పితో, చేతికర్ర సాయంతో తూలుతూ లేస్తాడు; పాప ఏడుస్తూనే ఉంది | Tripod |
+| 25L | 25 | INSERT | Low Angle | Profile, ground level — నేల ఎత్తులో, పాదం పాప వైపు అడుగు | Static | అతని పాదం: కూతురి వైపు ఒక అడుగు | Tripod low |
+| 25M | 25 | WS | Eye-level | Wide, from van side — గేట్ వైపు నుంచి, వరండా ముందు నేల మీద రాజు, పాప పక్కపక్కనే | Static | బ్యాలెన్స్ తప్పి ఆమె పక్కనే నేల మీద పడిపోతాడు | Tripod; stunt pads, actor safety |
+| 25N | 25 | WS | Eye-level | Wide Frontal — గేట్ వైపు నుంచి, తలుపులోంచి భార్య పరుగున వచ్చి ఇద్దరినీ లేపుతుంది | Static | రాజు భార్య (33) ఇంట్లోంచి పరిగెత్తుకొచ్చి, ముందు పాపని లేపి, తర్వాత రాజుకి సాయం చేస్తుంది | Tripod |
+| 25O | 25 | CU | Eye-level | Front 3/4 — భార్య భుజం పక్క నుంచి, నొప్పితో లేస్తున్న రాజు | Static | రాజు నొప్పితో మెల్లగా లేస్తాడు | Tripod |
+| 25P | 25 | MS | Eye-level | Back 3/4 on రాజు & భార్య — వరండా నుంచి, ముందు ఇద్దరు, అవతల వ్యాన్ ఎక్కుతున్న పాప | Static | పాప కన్నీళ్ళు తుడుచుకుని వ్యాన్ దగ్గరికి నడిచి ఎక్కుతుంది; రాజు, భార్య చూస్తుంటారు | Tripod |
+| 25Q | 25 | MS 2-shot | Eye-level | Two-Shot, Frontal — వ్యాన్ వైపు నుంచి, వరండాలో రాజు, భార్య ఇద్దరూ | Static | రాజు (భార్యతో): "నా కళ్ళ ముందే నా బిడ్డ పడిపోయి ఏడుస్తుంటే, కనీసం లేపలేకపోయాను. అంతా నేను జాగ్రత్తగా లేకపోవడం వల్లే. time వెనక్కి తిప్పగలిగితే బాగుండు." | Tripod |
+| 25R | 25 | CU | Eye-level (వ్యాన్ కిటికీ) | Through van window (Reflection) — వ్యాన్ లోపల నుంచి, అద్దంలో ఆధ్య, అవతల రాజు | Static, rack focus | వ్యాన్ లోపలి నుంచి: అద్దంలో ఆధ్య ప్రతిబింబం నుంచి చెంపల మీద కన్నీళ్ళు కారుతున్న రాజు ముఖానికి rack | Tripod in van, long lens, follow focus |
+| 26A | 26 | MS | Eye-level | Two-Shot, Frontal — ముందు సీటు నుంచి వెనక్కి, పక్కపక్కన ఆధ్య, పాప | Static | పాప ఆధ్య పక్కన కూర్చుంటుంది; van బయల్దేరుతుంది | Van interior rig, small camera |
+| 26B | 26 | WS | Eye-level | Group, from aisle — వ్యాన్ మధ్య దారి నుంచి, పాప చుట్టూ చేరిన పిల్లలు | Handheld | మిగతా పిల్లలు కుతూహలంగా, అమాయకంగా చుట్టూ చేరతారు. KID 1: "మీ నాన్నకి ఏమైంది?" / KID 2: "అన్ని బ్యాండేజీలు ఎందుకు చుట్టుకున్నారు?" / KID 3: "ఆయన ఎందుకు నడవలేకపోతున్నారు?" | Handheld |
+| 26C | 26 | CU | Eye-level | Front 3/4 — ఎదురు సీటు నుంచి పాప, పిల్లల తలల మధ్య నుంచి | Static | GIRL: "మా నాన్న పని చేసే ఆఫీస్‌లో ఆయనకి యాక్సిడెంట్ అయింది." / KID 1: "ఎలా?" | Van interior rig |
+| 26D | 26 | CU | Eye-level | Frontal — పాప ముఖానికి ఎదురుగా, కెమెరా మెల్లగా దగ్గరికి | Slow push in | పాప చెప్పడం మొదలుపెడుతుంది | Mini slider, van interior |
+| 27A | 27 | WS | Eye-level | Wide Frontal — తలుపు దగ్గర నుంచి, ఇనుప టేబుల్ వెనక రాజు | Static | sodium vapour lampల వెలుతురులో దుమ్ము పట్టిన ఆఫీస్, cement floor; ఇనుప టేబుల్ వెనక ఆరోగ్యంగా ఉన్న రాజు | Tripod, sodium-vapor practicals, haze |
+| 27B | 27 | MS | Eye-level | Insert, Front 3/4 — టేబుల్ పక్క నుంచి, ముందు హెల్మెట్, వెనక మసకగా రాజు | Pan | టేబుల్ మీద పేపర్లు, ఫైళ్ళు, మూలన ఉన్న సేఫ్టీ హెల్మెట్ దాకా; ఫోకస్ హెల్మెట్ మీద, రాజు మసకగా | Tripod, fluid head |
+| 27C | 27 | MS | Eye-level | Wide Frontal on bench — రాజు టేబుల్ వెనక నుంచి, ఎదురు గోడ బెంచ్ మీద వర్కర్లు | Static | ఎదురు గోడ దగ్గర బెంచ్ మీద ఐదుగురు వర్కర్లు; WORKER 1 ఫోన్ ఎత్తుతాడు: "సరే." (రాజుతో) "Sir, మెటీరియల్ అన్‌లోడింగ్ దాదాపు అయిపోయిందంట." | Tripod |
+| 27D | 27 | MS | Eye-level | OTS (వర్కర్ల భుజం మీదుగా) on రాజు — బెంచ్ వైపు నుంచి, లేస్తున్న రాజు | Static | రాజు కుర్చీలోంచి లేస్తాడు: "కిందకి వెళ్ళి చెక్ చేద్దాం పదండి. వాళ్ళు ఎలా stack చేసారో చూద్దాం." | Tripod |
+| 27E | 27 | INSERT | Eye-level | Insert, Low over table — టేబుల్ మీద హెల్మెట్ ముందు, వెనక తలుపు వైపు రాజు | Static, rack focus | హెల్మెట్ టేబుల్ మీదే ఉండిపోతుంది; తలుపు వైపు వెళ్తున్న రాజుకి rack | Tripod, follow focus |
+| 27F | 27 | MS | Eye-level | Frontal — రాజు సైడ్ నుంచి బెంచ్ మీద WORKER 2, 27C లైన్‌లోనే | Static | WORKER 2: "సార్, మీ safety shoes, హెల్మెట్ మర్చిపోయారు." | Tripod |
+| 27G | 27 | MS | Eye-level | Frontal — ఆఫీస్ లోపల నుంచి, తలుపు గుమ్మంలో వెనక్కి తిరిగిన రాజు | Static | గుమ్మం దగ్గర రాజు: "ఒంటి గంట కావొస్తోంది. లంచ్ టైమ్. inspection చేయటానికి ఐదు నిమిషాలు కూడా పట్టదు. మళ్ళీ లంచ్‌ కోసం ఇక్కడకి వచ్చి అవన్నీ తీసేయాలి. అంత పని ఎందుకు? తొందరగా చూసేసి వచ్చేస్తా." | Tripod |
+| 27H | 27 | WS | Eye-level | Through doorway — టేబుల్ వెనక నుంచి, ముందు హెల్మెట్, తలుపులోంచి మెట్లు దిగే రాజు | Static | బయటికి నడిచి మెట్లు దిగుతాడు; వదిలేసిన హెల్మెట్ మీద హోల్డ్ | Tripod |
+| 28A | 28 | EWS | High Angle | Establishing, from gantry — ఎత్తు నుంచి గోడౌన్ మొత్తం, ఎడమ క్రేన్లు, కుడి పైపుల గుట్టలు | Static | విశాలమైన, దుమ్ము నిండిన గోడౌన్; నేల అంతటా అక్కడక్కడ steel blooms, steel pipes గుట్టలు | Tripod on gantry or drone (indoor); haze |
+| 28B | 28 | WS | Eye-level | Profile on cranes — యార్డ్ మధ్య నుంచి, ఎడమ వైపు లారీ, క్రేన్లు bloom ఎత్తుతూ | Pan | రెండు భారీ ఓవర్‌హెడ్ క్రేన్లు 18-చక్రాల లారీ మీద నుంచి పొడవాటి steel bloomsని ఎత్తి పేర్చుతున్నాయి | Tripod, long lens. నిజమైన ప్లాంట్ ఆపరేషన్స్; సెట్‌లో ప్లాంట్ సేఫ్టీ ఆఫీసర్ ఉండాలి |
+| 28C | 28 | MS | Eye-level | Front 3/4 — క్రేన్ కింద రిగ్గర్లు పైకి సైగ, వెనక క్రేన్ ఆపరేటర్ క్యాబ్ | Static | ప్రతి క్రేన్ కింద ఫుల్ safety gear లో ఇద్దరు రిగ్గర్లు ఆపరేటర్లకి సైగలు చేస్తున్నారు | Tripod |
+| 28D | 28 | WS | Low Angle | From below the load — bloom కింద నుంచి, రెండు చివర్ల రెండు slings | Tilt up | పొడవాటి బ్లూమ్‌ని రెండు slings పట్టుకుని ఉన్నాయి, ఒక్కో sling bloom ఒక్కో చివర | Tripod |
+| 28E | 28 | MS | Eye-level | Front 3/4, leading — రాజు ముందు వెనక్కి, అతని వెనక క్రేన్లు (ఎడమ), గుట్టలు (కుడి) | Track | రాజు గోడౌన్ మధ్యలోంచి తాపీగా నడుస్తున్నాడు | Steadicam |
+| 28F | 28 | INSERT | Eye-level | Insert, Frontal — తల, కళ్ళు, కాళ్ళు దగ్గరగా ఎదురుగా, PPE లేనిది కనపడేలా | Static | క్విక్ ఇన్సర్ట్‌లు: హెల్మెట్ లేని తల, goggles లేని కళ్ళు, సేఫ్టీ షూస్ లేని కాళ్ళు | Tripod, 3 setups |
+| 28G | 28 | WS | Low Angle | Low Angle, From Behind రాజు — ముందు అతని తల, పైన దాటుతున్న bloom | Static | ముందు రాజు, సరిగ్గా అతని తల మీదుగా క్రేన్ తీసుకెళ్తున్న బ్లూమ్ | Tripod low. Composite: యాక్టర్ మీద లైవ్ లోడ్ ఉండకూడదు |
+| 28H | 28 | ECU | Low Angle | Insert on sling — హుక్ దగ్గర కింద నుంచి, తెగుతున్న sling | Static | టప్ (SNAP): రెండు slings లో ఒక స్లింగ్ తెగిపోతుంది | Practical breakaway sling on prop rig or VFX |
+| 28I | 28 | WS | Eye-level | Wide Profile — యార్డ్ పక్క నుంచి, ఊగే bloom, కింద రాజు, కుడి వైపు పైపుల గుట్ట | Static | స్లో మోషన్: బ్లూమ్ ఆ చివర కిందకి జారుతుంది; ఇంకో చివర sling వల్ల crane కి వేలాడుతూ అటు ఇటూ ఊగుతుంది | High-speed camera (120fps+). Lightweight prop bloom or CG |
+| 28J | 28 | MS | Low Angle (రాజు POV) | Low Angle POV రాజు — క్రేన్ కింద నుంచి, నేరుగా దూసుకొస్తున్న bloom | Static | ఊగుతున్న బ్లూమ్ crane కింద ఉన్న రాజు వైపు నేరుగా దూసుకొస్తుంది | High-speed camera; prop on safety cable, or CG |
+| 28K | 28 | CU | Eye-level | Front 3/4 — రిగ్గర్ ముఖం, కుడి నుంచి రాజు వైపు చూపు | Static | దగ్గర్లో ఉన్న రిగ్గర్ అది చూస్తాడు | Tripod |
+| 28L | 28 | MS | Eye-level | Two-Shot, Profile — 28I సైడ్ నుంచే, రిగ్గర్ దూకి రాజుని లాగుతాడు | Handheld | రిగ్గర్ ఒక్క ఉదుటున ముందుకి దూకి రాజుని పక్కకి లాగేస్తాడు | Handheld, real time; stunt coordinator, pads |
+| 28M | 28 | CU | Eye-level | Profile, tight — రాజు తల పక్క నుంచి, ముందు ఫ్రేమ్‌లో వెంట్రుకవాసిలో దాటే bloom | Static | బ్లూమ్ వెంట్రుకవాసిలో రాజుకి తగలకుండా తప్పిపోతుంది | Tripod; VFX composite |
+| 28N | 28 | MS | Floor level | Floor level, Frontal — నేల ఎత్తులో, కెమెరా వైపు పడే రాజు | Static | రాజు నేల మీద పడిపోతాడు | Ground plate; stunt pad |
+| 28O | 28 | WS | Eye-level | Wide Profile — 28I సైడ్ నుంచే, bloom కుడి వైపు పైపుల గుట్టని ఢీకొడుతుంది | Static | ఊగుతున్న బ్లూమ్ ఒక పైపుల గుట్టని బలంగా ఢీకొట్టి కదిలించేస్తుంది; పైపులు ఒక్కొక్కటిగా జారుతుంటాయి | Tripod; foam prop pipes or VFX |
+| 28P | 28 | ECU | Low Angle | Insert on sling — హుక్ దగ్గర కింద నుంచి, రెండో sling తెగుతుంది (28H మ్యాచ్) | Static | ఆ ఊపుకి bloom ని పట్టుకుని ఉన్న రెండో sling కూడా తెగిపోతుంది | Tripod; breakaway or VFX |
+| 28Q | 28 | WS | Eye-level | Wide Profile — 28I సైడ్ నుంచే, నేల మీద పడే bloom, లేచే దుమ్ము మేఘం | Static | చెవులు చిల్లులు పడే ఢామ్ (THUD) శబ్దంతో బ్లూమ్ నేల మీద పక్కకి పడుతుంది; దుమ్ము మేఘంలా లేస్తుంది | Tripod; practical dust mortar (SFX) |
+| 28R | 28 | CU | Eye-level | Frontal — రాజు ముఖానికి ఎదురుగా, కళ్ళలో పడే దుమ్ము | Static | అప్పుడే లేచి నిలబడ్డ రాజు కళ్ళలో దుమ్ము మొత్తం పడుతుంది | Tripod; safe cosmetic dust, eye-safe |
+| 28S | 28 | MS | Eye-level (రాజు POV) | POV రాజు — మసకగా, కుడి వైపు కూలుతున్న పైపుల గుట్ట వైపు అడుగులు | Handheld | సగం సరిగ్గా కనపడక మసకబారిన దృశ్యం; కూలిపోతున్న గుట్ట వైపే అడుగు వేస్తాడు | Handheld, defocus/diffusion |
+| 28T | 28 | ECU | Floor level | Insert, Profile, ground level — పాదం దొర్లే పైపు మీద పడుతుంది | Static | అతని కాలు దొర్లుతున్న ఒక పైపు మీద పడుతుంది | Ground plate |
+| 28U | 28 | WS | Eye-level | Wide Profile — గుట్ట ముందు జారి పడే రాజు, వెనక కూలుతున్న పైపులు | Static | కాళ్ళు జారి కింద పడిపోతాడు | Tripod; stunt double |
+| 28V | 28 | WS | Overhead | Top-down — నేరుగా పై నుంచి, పడిన రాజు మీదకి దొర్లే పైపులు | Static | గుట్ట పై నుంచి పైపులు దొర్లి అతని కాళ్ళ మీద, చేతుల మీద, తల మీద వర్షంలా పడతాయి | Top-down rig; foam/rubber prop pipes, stunt double |
+| 28W | 28 | CU | Floor level | Floor level, Profile — రాజు తల పక్కన నేల మీద నుంచి, దొర్లుకొచ్చే పైపు | Static | రాజు కదలలేక నొప్పితో అరుస్తూ పడి ఉన్నాడు; ఒక పైపు దొర్లుకుంటూ వచ్చి అతని తలకి బలంగా తగులుతుంది | Ground plate; foam prop pipe, stunt double, VFX for impact |
+| 28X | 28 | WS | Overhead | Top-down — 28V సెటప్, నేల మీద స్పృహ లేని రాజు, దుమ్ము సద్దుమణుగుతుంది | Static | నిశ్శబ్దం. దుమ్ము సద్దుమణుగుతుంది. రాజు స్పృహ కోల్పోయి పడి ఉన్నాడు | Top-down rig, locked off |
+| 29A | 29 | WS | Eye-level | Wide Front 3/4 — బెడ్ కాళ్ళ వైపు నుంచి, బ్యాండేజీలతో రాజు | Static | ఒళ్ళంతా బ్యాండేజీలతో హాస్పిటల్ బెడ్ మీద రాజు | Tripod |
+| 29B | 29 | MS 2-shot | Eye-level | Two-Shot, Profile — బెడ్ పక్క నుంచి, సహోద్యోగి, భార్య; భార్య పక్కన పాప | Static | సహోద్యోగి రాజు భార్యతో మెల్లగా మాట్లాడుతున్నాడు; అమ్మ పక్కన పాప. COLLEAGUE: "దెబ్బలు చాలా సీరియస్‌గా తగిలాయండి. సార్ బతికి బయటపడటం అదృష్టం. రోజూ సార్ తన సేఫ్టీ PPE అంతా పెట్టుకుంటారు. ఒక్కసారి పట్టించుకోలేదు, అప్పుడే ఇలా జరిగిపోయింది..." | Tripod |
+| 29C | 29 | CU | Eye-level (పిల్లల ఎత్తు) | Frontal, child height — పాప ముఖానికి ఎదురుగా, పైన మసకగా పెద్దవాళ్ళు | Static | పాప వింటోంది; పైన పెద్దవాళ్ళు మసకగా. "...ఆ రోజు ఆయన PPE పెట్టుకుని ఉంటే, యాక్సిడెంట్ ఇంత సీరియస్ అయ్యేది కాదు." | Tripod low, shallow focus |
+| 30A | 30 | CU | Eye-level | Front 3/4 — 26C సెటప్ రిపీట్, పిల్లల తలల మధ్య నుంచి పాప | Static | GIRL: "నాన్న బాగవ్వడానికి చాలా నెలలు పడుతుందని డాక్టర్ చెప్పారు. ఇంకా, నాన్న ఇంతకుముందులా సరిగ్గా నడవలేరు అని చెప్పారు. ఇంతకుముందులా నాతో కూడా పరిగెత్తి ఆడుకోలేరంట." | Van interior rig |
+| 30B | 30 | CU | Eye-level | Frontal — పాప కళ్ళకి దగ్గరగా ఎదురుగా | Static | ఆమె కళ్ళలో నీళ్ళు తిరుగుతాయి | Van interior rig |
+| 30C | 30 | WS | Eye-level | Wide, from aisle — 26B లైన్‌లో, పాప చుట్టూ మౌనంగా పిల్లలు | Static | పిల్లలంతా మౌనంగా అయిపోతారు | Van interior rig, wide lens |
+| 30D | 30 | CU | Eye-level | Through window (from outside) — వ్యాన్ బయట నుంచి అద్దం గుండా ఆధ్య, ప్రతిబింబాలు జారుతూ | Static | తన నాన్న గురించి ఆలోచిస్తూ ఆధ్య కిటికీలోంచి బయటకు చూస్తుంది; అద్దం అవతల ప్రపంచం మసకగా దూసుకుపోతుంది | Van interior rig, shallow focus |
+| 30E | 30 | WS | Eye-level | Wide, school gate — స్కూల్ గేట్ దగ్గర నుంచి, వ్యాన్ ఆగుతుంది, దిగి నడిచే ఆధ్య | Static | van school చేరుతుంది; ఆధ్య పరధ్యానంగా ఎక్కడో ఆలోచిస్తూ van దిగి తన క్లాస్ వైపు నడిచి వెళ్తుంది | Tripod |
+| 31A | 31 | WS | Eye-level | Wide, from back of class — క్లాస్ వెనక నుంచి, ముందు టీచర్, బెంచీల మధ్య ఆధ్య | Static | క్లాస్‌రూమ్: Teacher lesson చెప్తోంది; తన bench మీద ఆధ్య | Tripod |
+| 31B | 31 | MCU | Eye-level | Frontal — టీచర్ స్థానం నుంచి, చేతుల మీద chin ఆనించిన ఆధ్య | Slow push in | చేతుల మీద chin ఆనించి teacher వైపు చూస్తోంది కానీ ఆలోచనలు ఎక్కడో; క్లాస్‌రూమ్ మసకబారుతుంది. COLLEAGUE (V.O.): "ఒక్కసారి పట్టించుకోలేదు..." / RAJU (V.O.): "అంతా నేను జాగ్రత్తగా లేకపోవడం వల్లే." | Dolly or slider |
+| 31C | 31 | MS | Eye-level | OTS (ఆధ్య భుజం మీదుగా) on టీచర్ — ఆధ్య బెంచ్ వెనక నుంచి | Static | పరధ్యానంగా ఉన్న ఆధ్యని చూసి, టీచర్ గట్టిగా పిలుస్తుంది: "ఆధ్యా!" | Tripod |
+| 31D | 31 | CU | Eye-level | Frontal — 31B సెటప్, ఉలిక్కిపడే ఆధ్య ముఖం | Static | ఆధ్య ఉలిక్కిపడి ఈ లోకంలోకి వస్తుంది; ఫోకస్ షార్ప్ అవుతుంది | Tripod |
+| 31E | 31 | MS | Eye-level | OTS (ఆధ్య భుజం మీదుగా) on టీచర్ — 31C సెటప్ రిపీట్ | Static | TEACHER (కోపంగా): "ఏమైంది నీకు. నీ mind ఎక్కడో ఉంది" | Tripod |
+| 31F | 31 | CU | Eye-level | Front 3/4 — టీచర్ వైపు నుంచి, 31B లైన్‌లోనే ఆధ్య | Static | AADHYA: "ఏం లేదు MISS" | Tripod |
+| 31G | 31 | MS | High Angle | High Front 3/4 — టీచర్ ఎత్తు నుంచి, notebook మీదకి తల దించిన ఆధ్య | Static | ఆధ్య తల దించుకుని తన notebook లో రాసుకోవడం మొదలుపెడుతుంది | Tripod |
+| 32A | 32 | MS | Eye-level | From Behind ఆధ్య, following — తలుపు నుంచి వెనకే, బ్యాగ్ పడేసి స్నేహ వైపు పరుగు | Track | ఆధ్య ఇంటికి వచ్చి, బ్యాగ్ పడేసి, నేరుగా స్నేహ దగ్గరికి పరిగెడుతుంది | Steadicam |
+| 32B | 32 | MS 2-shot | Eye-level | Two-Shot, Profile — పక్క నుంచి, ఆధ్య (ఎడమ), స్నేహ (కుడి) ఎదురెదురుగా | Static | AADHYA: "మమ్మీ, డాడీ ఆఫీస్‌లో safety PPE వాడతారా?" / SNEHA: "వాడతారు కదా. అయినా ఎందుకు అడుగుతున్నావు? స్కూల్‌లో దాని గురించి ఏమైనా lesson వచ్చిందా?" / AADHYA: "డాడీ ఎలాంటి items వాడతారు?" | Tripod |
+| 32C | 32 | MCU | Eye-level | OTS (ఆధ్య భుజం మీదుగా) on స్నేహ — ఆధ్య ఎత్తు నుంచి | Static | స్నేహ: safety helmet, safety shoes, goggles, ear plugs గురించి వివరిస్తుంది ("పై నుంచి ఏమైనా పడితే తలకి దెబ్బ తగలకుండా..." నుంచి "...ear plugs పెట్టుకుంటారు." దాకా) | Tripod |
+| 32D | 32 | CU | Eye-level | Reverse OTS (స్నేహ భుజం మీదుగా) on ఆధ్య — 32C కి reverse | Static | ఆధ్య ప్రతి మాటా శ్రద్ధగా వింటుంది; తర్వాత ఊరటతో ఒక చిన్న నవ్వు | Tripod |
+| 33A | 33 | MS 3-shot | Eye-level | Three-Shot, Frontal — బెంచ్ ముందు నుంచి, ముగ్గురూ (24D MASTER మ్యాచ్) | Static | బెంచ్, ప్రస్తుతం: అమ్మానాన్నల మధ్యలో ఆధ్య; పెద్ద వివరణ ("ఆ రోజు నువ్వు చెప్పినవన్నీ నాకు గుర్తున్నాయి అమ్మ..." నుంచి "...చాలా భయమేసింది." దాకా) | Tripod; 24D కి మ్యాచ్ |
+| 33B | 33 | CU | Eye-level | Front 3/4, స్నేహ సైడ్ నుంచి — ఆధ్య, అమ్మ వైపు చూస్తూ (24I లైన్) | Static | ఆధ్య, మొత్తం స్పీచ్‌కి coverage: "...అప్పుడు నాకు అనిపించింది, ఒక రోజు డాడీ అవి పెట్టుకోవడం మర్చిపోతే?..." / (ఒక క్షణం ఆగి) "అందుకే రోజూ పొద్దున్నే..." | Tripod |
+| 33C | 33 | CU | Eye-level | Front 3/4, ఆధ్య సైడ్ నుంచి — స్నేహ clean single (24H మ్యాచ్) | Static | స్నేహ మెల్లగా తల ఊపుతుంది | Tripod |
+| 33D | 33 | MS | Eye-level | Two-Shot, Front 3/4 — స్నేహ సైడ్ నుంచి, స్నేహ ఆధ్య జుట్టు నిమురుతూ | Static | స్నేహ చిన్నగా నవ్వుతూ ఆధ్య జుట్టు నిమురుతుంది: "ఓహ్. అందుకేనా మా బంగారు తల్లికి జ్వరం వచ్చింది." | Tripod |
+| 33E | 33 | CU | Eye-level | Front 3/4, ఆధ్య సైడ్ నుంచి — కార్తీక్ clean single (24G మ్యాచ్) | Static | కార్తీక్: "మరి ఈ రోజు పొద్దున జ్వరం ఎందుకు వచ్చింది?" | Tripod |
+| 33F | 33 | CU | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on ఆధ్య — తల ఎత్తి నాన్న వైపు | Static | ఆధ్య: "ఎందుకంటే నువ్వు హెల్మెట్ లేకుండా ఆఫీస్‌కి వెళ్ళడం చూశాను." | Tripod |
+| 33G | 33 | ECU | Eye-level | Frontal, tight — కార్తీక్ కళ్ళకి దాదాపు ఎదురుగా, 33E లైన్‌లోనే | Static | కార్తీక్ నిశ్చేష్టుడైపోతాడు; ఫోకస్ కళ్ళ మీద లాక్ | Tripod, macro or long lens |
+| 34A | 34 | MS | Eye-level | Front 3/4 to From Behind — 18C సెటప్ మ్యాచ్, హెల్మెట్ లేకుండా తలుపు దాటే కార్తీక్ | Static | ఫ్లాష్‌బ్యాక్: కార్తీక్ స్నేహ దగ్గర నుంచి బ్యాగ్ లాక్కుని, హెల్మెట్ లేకుండా గబగబా తలుపు దాటి వెళ్తాడు | 18B/18C రీయూజ్, or pickup |
+| 35A | 35 | ECU | Eye-level | Profile, alongside — 19E మ్యాచ్, బైక్ పక్క నుంచి ఫోన్ మీద కళ్ళు | Track | ఫ్లాష్‌బ్యాక్: కార్తీక్ కళ్ళు ఫోన్ మీద | 19E రీయూజ్, or pickup |
+| 35B | 35 | WS | Low Angle | Roadside, Low — 19F మ్యాచ్, రోడ్డు పక్క నుంచి కార్తీక్‌ని దాటే కారు | Static | ఫ్లాష్‌బ్యాక్: అంగుళాల దూరంలో కారు దూసుకుపోతుంది | 19F రీయూజ్ |
+| 36A | 36 | CU | Eye-level | Front 3/4, ఆధ్య సైడ్ నుంచి — కార్తీక్, కూతురి వైపు చూపు (33E లైన్) | Static | కార్తీక్ తన కూతురి వైపు చూస్తాడు | Tripod |
+| 36B | 36 | CU | Eye-level | OTS (ఆధ్య భుజం మీదుగా) on కార్తీక్ — rack ఆధ్య భుజం నుంచి అతని ముఖానికి | Slow push in, rack focus | ఆమెకు తనంటే ఎంత ప్రేమో ఇప్పుడే అర్థమవుతుంది; ముఖం ఆప్యాయతతో నిండిపోతుంది. కార్తీక్ నుంచి ఆధ్యకి rack, మళ్ళీ వెనక్కి | Slider, follow focus |
+| 36C | 36 | MS | Eye-level | Two-Shot, Front 3/4 — కార్తీక్ సైడ్ నుంచి, ఆధ్యని హత్తుకునే కార్తీక్ | Static | ఆమెను దగ్గరికి తీసుకుని హత్తుకుంటాడు: "ఇక నుంచి నువ్వు దేని గురించీ భయపడాల్సిన అవసరం లేదు రా. నీకు promise చేస్తున్నా, ఇంకెప్పుడూ నా సేఫ్టీ PPEని నిర్లక్ష్యం చేయను. ఎక్కడికి వెళ్ళినా, ఎప్పుడూ పెట్టుకుంటాను." | Tripod |
+| 36D | 36 | CU | Eye-level | OTS (కార్తీక్ భుజం మీదుగా) on ఆధ్య — 33F లైన్, తల ఎత్తి చూసే ఆధ్య | Static | ఆధ్య అతని వైపు తలెత్తి చూస్తుంది | Tripod |
+| 36E | 36 | MS | Eye-level | Three-Shot, Frontal — బెంచ్ ముందు నుంచి, కౌగిలింత, పక్కన స్నేహ | Static | అతన్ని గట్టిగా కౌగిలించుకుంటుంది | Tripod |
+| 36F | 36 | WS | High Angle | High Frontal, crane — బెంచ్ ముందు నుంచి పైకి వెనక్కి, ముగ్గురూ, పార్క్ | Crane up and pull back | సాయంత్రం వెలుగులో బెంచ్ మీద కుటుంబం; టైటిల్ కార్డ్స్ కోసం హోల్డ్ | Jib or drone |
+| 36G | 36 | TITLE CARD | N/A | N/A — టైటిల్ కార్డ్ | Static | స్క్రీన్ మీద అక్షరాలు: "SAFETY PPE ఎప్పుడూ నిర్లక్ష్యం చేయకండి." / "ఎప్పుడూ వాటిని ధరించండి, సురక్షితంగా ఉండండి." / "ఇది కేవలం ఒక రూల్ కాదు. ఇది మన బాధ్యత." / "మన కోసం, మనల్ని ప్రేమిస్తూ, ఇంట్లో మన కోసం ఎదురుచూసే వాళ్ళ కోసం." | Post (graphics) over 36F, or on black; ఒక్కో కార్డ్ విడిగా fade in/out |
+| 37A | 37 | WS | Eye-level | From Behind — దారి మీద వెనక నుంచి, ముగ్గురూ పార్క్ గేట్ వైపు | Static | వెనక నుంచి: ఆధ్య, స్నేహ, కార్తీక్ ముగ్గురూ పార్క్ గేట్ వైపు నడుస్తున్నారు | Tripod |
+| 37B | 37 | MS 3-shot | Eye-level | Three-Shot, Front 3/4, leading — ముందు పక్కగా వెనక్కి కదులుతూ, ముగ్గురూ నడుస్తూ | Track | పక్కనుంచి: కార్తీక్: "వ్యాన్‌లో నీ ఫ్రెండ్ వాళ్ళ ఇల్లు ఎక్కడో గుర్తుందా? ఒకసారి వాళ్ళని చూసి వద్దాం." / ఆధ్య: "తను స్కూల్ మానేసింది డాడీ. వాళ్ళ ఫ్యామిలీ వేరే ఊరికి వెళ్ళిపోయారు." / కార్తీక్: "నీకెలా తెలుసు?" | Steadicam or gimbal, leading/parallel |
+| 37C | 37 | MCU | Eye-level | Front 3/4, leading — ఆధ్య, తల ఎత్తి నాన్న వైపు చూస్తూ మాట్లాడుతుంది | Track | ఆధ్య: "ఒక sunday, నేను పార్క్‌లో ఆడుకుంటుంటే, తను వచ్చింది. next day నుంచి. వేరే ఊరు వెళ్ళిపోతున్నాం అని చెప్పింది. వాళ్ళ నాన్న job కి resign చేశారంట..." నుంచి "...సొంత ఊరికి వెళ్ళిపోతున్నాము అని చెప్పింది." దాకా | Gimbal |
+| 37D | 37 | INSERT | Eye-level | Insert, Profile — చేతుల ఎత్తులో పక్క నుంచి, కార్తీక్ చేతిలో ఆధ్య చేయి | Track | కార్తీక్ ఆమె చేతిని ఇంకొంచెం గట్టిగా పట్టుకుంటాడు | Gimbal |
+| 37E | 37 | WS | Eye-level | From Behind — 37A లైన్, ఆగిన కెమెరా, దూరంగా చిన్నగా ముగ్గురూ | Static | వెనక నుంచి: కెమెరా ఆగిపోతుంది; అందరూ కలిసి ముందుకు నడుస్తూనే ఉంటారు, చిన్నగా అవుతూ | Tripod, locked off |
+| 37F | 37 | TITLE CARD | N/A | N/A — టైటిల్ కార్డ్ | Static | స్క్రీన్ మీద అక్షరాలు: "మీ కంపెనీలో మీలాంటి వర్కర్లు చాలా మంది ఉన్నారు. కానీ మీ ఫ్యామిలీకి ఉన్నది మీరు ఒక్కరే." / "మీ వర్క్‌ప్లేస్‌లో మీ స్థానాన్ని ఈజీగా వేరొకరితో భర్తీ చేయొచ్చు. కానీ మీ ఫ్యామిలీలో మీ స్థానాన్ని ఎవరూ భర్తీ చేయలేరు." / "ఎప్పుడూ సురక్షితంగా ఉండండి. జీవితంలో సేఫ్టీకే అత్యధిక ప్రాధాన్యత ఇవ్వండి." తర్వాత "THE END", fade out | Post (graphics) over 37E, or on black |
